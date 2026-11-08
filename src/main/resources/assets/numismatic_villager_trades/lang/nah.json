@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Tomintiliztli altepetlacatl tlanamacaliztli",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Tomintiliztli altepetlacatl tlanamacaliztli",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Tomintiliztli altepetlacatl tlanamacaliztli",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Xicchihua tomin tlanamacaliztli",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Xicpatla vanilla tlanamacaliztli",
+    "numismatic_villager_trades.configuration.maxUses":  "Tlanamacaliztli huel miec tlachihualiztli",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Altepetlacatl tlanamacaliztli",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Oztomecatl"
+}

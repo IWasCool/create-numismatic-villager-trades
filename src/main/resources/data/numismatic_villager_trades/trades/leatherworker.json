@@ -1,0 +1,142 @@
+{
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 8,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:diamond_horse_armor"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:golden_horse_armor"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:iron_horse_armor"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:leather_horse_armor"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:coal"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:leather"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:rabbit_hide"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:rotten_flesh"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

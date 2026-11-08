@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Scambi numizmateghi dei vilani",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Scambi numizmateghi dei vilani",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Scambi numizmateghi dei vilani",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Abìlita i scambi co łe monede",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Sostituisi i scambi vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usi massimi del scambio",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Scambi dei vilani",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minador"
+}

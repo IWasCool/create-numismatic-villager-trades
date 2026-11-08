@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: 화폐학 주민 거래",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: 화폐학 주민 거래",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: 화폐학 주민 거래",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "동전 거래 활성화",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "바닐라 거래 교체",
+    "numismatic_villager_trades.configuration.maxUses":  "거래 최대 사용 횟수",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "주민 거래",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "광부"
+}

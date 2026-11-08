@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismātiskie cieminieku darījumi",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismātiskie cieminieku darījumi",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismātiskie cieminieku darījumi",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Iespējot monētu darījumus",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Aizstāt vanilla darījumus",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksimālais darījuma lietojumu skaits",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Cieminieku darījumi",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Kalnracis"
+}

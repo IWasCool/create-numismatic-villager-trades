@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "सिक्का व्यापार सक्षम करें",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "वैनिला व्यापार बदलें",
+    "numismatic_villager_trades.configuration.maxUses":  "व्यापार के अधिकतम उपयोग",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "ग्रामीण व्यापार",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "खनिक"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatické obchody dedinčanov",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatické obchody dedinčanov",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatické obchody dedinčanov",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Povoliť obchody s mincami",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Nahradiť vanilla obchody",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximálny počet použití obchodu",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Obchody dedinčanov",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Baník"
+}

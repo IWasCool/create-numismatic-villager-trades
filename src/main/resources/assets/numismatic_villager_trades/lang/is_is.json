@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Myntfræðileg viðskipti þorpsbúa",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Myntfræðileg viðskipti þorpsbúa",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Myntfræðileg viðskipti þorpsbúa",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Virkja myntviðskipti",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Skipta út vanilla-viðskiptum",
+    "numismatic_villager_trades.configuration.maxUses":  "Hámarksnotkun viðskipta",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Viðskipti þorpsbúa",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Námumaður"
+}

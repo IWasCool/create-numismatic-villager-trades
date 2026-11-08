@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatisk bybuars handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatisk bybuars handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatisk bybuars handel",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Slå på mynt handel",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Byt ut vanilla handel",
+    "numismatic_villager_trades.configuration.maxUses":  "Mest bruk av handel",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Bybuars handel",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gruvarbetar"
+}

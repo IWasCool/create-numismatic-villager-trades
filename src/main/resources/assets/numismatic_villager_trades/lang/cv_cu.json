@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматик ял хуҫи сату-илеүĕ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматик ял хуҫи сату-илеүĕ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматик ял хуҫи сату-илеүĕ",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Укҫа сату-илеүĕсене çутар",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla сату-илеүĕсене улăштар",
+    "numismatic_villager_trades.configuration.maxUses":  "Сату-илеү макс. усă курни",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Ял хуҫи сату-илеүĕсем",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Шахтер"
+}

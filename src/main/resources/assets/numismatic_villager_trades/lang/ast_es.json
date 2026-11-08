@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Comerciu numismáticu de aldeanos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Comerciu numismáticu de aldeanos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Comerciu numismáticu de aldeanos",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activar comerciu con monedes",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Sustituyir comercios vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos del comerciu",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Comercios d\u0027aldeanos",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mineru"
+}

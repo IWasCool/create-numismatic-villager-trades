@@ -1,0 +1,366 @@
+{
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 22,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:botanist_workbench"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:tinkering_table"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:alchemy_bench"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:mason_table"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:loom_table"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:carpenters_table"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:glassblower"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:watering_can"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:multimeter"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:needles"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:chisel"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "chipped:alchemy_book"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:botanist_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:tinkering_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:alchemy_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:mason_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:loom_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:carpenters_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "createqol:glassblower_saw"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:painting"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:pointed_dripstone"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

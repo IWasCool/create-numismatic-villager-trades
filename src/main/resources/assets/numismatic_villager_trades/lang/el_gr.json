@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Νομισματικές συναλλαγές χωρικών",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Νομισματικές συναλλαγές χωρικών",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Νομισματικές συναλλαγές χωρικών",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ενεργοποίηση συναλλαγών νομισμάτων",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Αντικατάσταση των vanilla συναλλαγών",
+    "numismatic_villager_trades.configuration.maxUses":  "Μέγιστες χρήσεις συναλλαγής",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Συναλλαγές χωρικών",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Μεταλλωρύχος"
+}

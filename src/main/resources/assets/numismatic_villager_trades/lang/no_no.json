@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatiske landsbyboerhandler",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiske landsbyboerhandler",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiske landsbyboerhandler",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktiver mynthandler",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Erstatt vanilla-handler",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksimale handelsbruk",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Landsbyboerhandler",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gruvearbeider"
+}

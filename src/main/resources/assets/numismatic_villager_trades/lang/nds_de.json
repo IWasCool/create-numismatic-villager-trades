@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatische Dörperbewohner-Handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatische Dörperbewohner-Handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatische Dörperbewohner-Handel",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Müntenhandel anmaken",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-Handel utwesseln",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximale Handelsbruken",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Dörperbewohner-Handel",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Bargmann"
+}

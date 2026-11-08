@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: 村民錢幣交易",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: 村民錢幣交易",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: 村民錢幣交易",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "啟用錢幣交易",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "取代原版交易",
+    "numismatic_villager_trades.configuration.maxUses":  "交易最多使用次數",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "村民交易",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "礦工"
+}

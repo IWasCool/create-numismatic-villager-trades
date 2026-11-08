@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: 村人の貨幣取引",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: 村人の貨幣取引",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: 村人の貨幣取引",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "コイン取引を有効化",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "バニラの取引を置き換える",
+    "numismatic_villager_trades.configuration.maxUses":  "取引の最大使用回数",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "村人の取引",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "鉱夫"
+}

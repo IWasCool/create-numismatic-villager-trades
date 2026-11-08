@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Shiniez Villager Tradez",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Shiniez Villager Tradez",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Shiniez Villager Tradez",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Turn on Shiniez Tradez",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Replace Vanilla Tradez",
+    "numismatic_villager_trades.configuration.maxUses":  "Max Trade Usez",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Villager Tradez",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Miner"
+}

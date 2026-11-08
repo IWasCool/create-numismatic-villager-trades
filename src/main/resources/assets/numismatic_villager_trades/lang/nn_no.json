@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatiske landsbybuarhandlar",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiske landsbybuarhandlar",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiske landsbybuarhandlar",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktiver mynthandlar",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Erstatt vanilla-handlar",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksimale handelsbruk",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Landsbybuarhandlar",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gruvearbeidar"
+}

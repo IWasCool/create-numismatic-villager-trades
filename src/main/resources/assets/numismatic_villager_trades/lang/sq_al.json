@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Tregti numizmatike të fshatarëve",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Tregti numizmatike të fshatarëve",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Tregti numizmatike të fshatarëve",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktivizo tregtitë me monedha",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zëvendëso tregtitë vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Përdorimet maksimale të tregtisë",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Tregtitë e fshatarëve",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minator"
+}

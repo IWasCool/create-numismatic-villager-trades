@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatikus falusi kereskedések",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatikus falusi kereskedések",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatikus falusi kereskedések",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Érmés kereskedések engedélyezése",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla kereskedések lecserélése",
+    "numismatic_villager_trades.configuration.maxUses":  "Kereskedés maximális használatai",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Falusi kereskedések",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Bányász"
+}

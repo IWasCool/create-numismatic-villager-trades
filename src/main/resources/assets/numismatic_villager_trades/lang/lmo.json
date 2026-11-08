@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Scambi numismàtich di paisan",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Scambi numismàtich di paisan",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Scambi numismàtich di paisan",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Abilita i scambi coi moneet",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Sostituiss i scambi vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Us massim del scambi",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Scambi di paisan",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minadùr"
+}

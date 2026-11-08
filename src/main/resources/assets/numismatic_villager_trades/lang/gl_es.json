@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Intercambios numismáticos de aldeáns",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Intercambios numismáticos de aldeáns",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Intercambios numismáticos de aldeáns",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activar intercambios con moedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Substituír intercambios vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos do intercambio",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Intercambios de aldeáns",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mineiro"
+}

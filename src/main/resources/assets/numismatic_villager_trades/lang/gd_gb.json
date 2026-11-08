@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Malairtean numismatic luchd-baile",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Malairtean numismatic luchd-baile",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Malairtean numismatic luchd-baile",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Cuir malairtean bhuinn an comas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Cuir malairtean vanilla nan àite",
+    "numismatic_villager_trades.configuration.maxUses":  "Cleachdaidhean malairt as motha",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Malairtean luchd-baile",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mèinneadair"
+}

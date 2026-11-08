@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Tratos numismáticos de aldeanos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Tratos numismáticos de aldeanos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Tratos numismáticos de aldeanos",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activâ trato con monedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Reemplaçâ tratos vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos der trato",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Tratos de aldeanos",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minero"
+}

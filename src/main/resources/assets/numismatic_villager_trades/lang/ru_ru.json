@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматические сделки жителей",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматические сделки жителей",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматические сделки жителей",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Включить сделки за монеты",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Заменить ванильные сделки",
+    "numismatic_villager_trades.configuration.maxUses":  "Максимум использований сделки",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Сделки жителей",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Шахтёр"
+}

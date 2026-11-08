@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatyczne handle wieśnioków",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatyczne handle wieśnioków",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatyczne handle wieśnioków",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Włoncz handle monetami",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zastōmp vanilla handle",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksymalno liczba użyć handlu",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Handle wieśnioków",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gōrnik"
+}

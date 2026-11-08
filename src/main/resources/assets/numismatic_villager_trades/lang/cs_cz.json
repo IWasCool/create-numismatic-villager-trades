@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatické obchody vesničanů",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatické obchody vesničanů",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatické obchody vesničanů",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Povolit obchody s mincemi",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Nahradit vanilla obchody",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximální počet použití obchodu",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Obchody vesničanů",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Horník"
+}

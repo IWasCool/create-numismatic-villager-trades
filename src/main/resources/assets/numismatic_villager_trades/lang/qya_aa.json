@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Mirië nótaron mancari",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Mirië nótaron mancari",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Mirië nótaron mancari",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ávea telpë-mancari",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vistë vanilla mancari",
+    "numismatic_villager_trades.configuration.maxUses":  "Anvëa mancaren laitië",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Nótaron mancari",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Ondonor"
+}

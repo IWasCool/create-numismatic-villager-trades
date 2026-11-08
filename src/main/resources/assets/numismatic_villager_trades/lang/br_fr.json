@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Eskemmoù nummuserezh ar gêriadenned",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Eskemmoù nummuserezh ar gêriadenned",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Eskemmoù nummuserezh ar gêriadenned",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Gweredekaat eskemmoù moneiz",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Erlec\u0027hiañ eskemmoù vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Implijoù brasañ an eskemm",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Eskemmoù ar gêriadenned",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mengleuzier"
+}

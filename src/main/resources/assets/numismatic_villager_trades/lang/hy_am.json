@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Դրամագիտական գյուղացու առևտուր",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Դրամագիտական գյուղացու առևտուր",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Դրամագիտական գյուղացու առևտուր",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Միացնել մետաղադրամով առևտուրը",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Փոխարինել vanilla առևտուրը",
+    "numismatic_villager_trades.configuration.maxUses":  "Առևտրի առավելագույն օգտագործումներ",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Գյուղացու առևտուր",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Հանքափոր"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Ganacsiyada lacag-ururinta tuulooyinka",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Ganacsiyada lacag-ururinta tuulooyinka",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Ganacsiyada lacag-ururinta tuulooyinka",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Daar ganacsiyada shilimaadka",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Beddel ganacsiyada vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Isticmaalka ugu badan ee ganacsiga",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Ganacsiyada tuulooyinka",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Macdan-qode"
+}

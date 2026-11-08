@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Kummerċi numiżmatiċi tar-raħħala",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Kummerċi numiżmatiċi tar-raħħala",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Kummerċi numiżmatiċi tar-raħħala",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ippermetti kummerċi bil-muniti",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ibdel il-kummerċi vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Użi massimi tal-kummerċ",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Kummerċi tar-raħħala",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Ħaddiem tal-minjiera"
+}

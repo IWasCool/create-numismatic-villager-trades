@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: ನಾಣ್ಯಶಾಸ್ತ್ರೀಯ ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: ನಾಣ್ಯಶಾಸ್ತ್ರೀಯ ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: ನಾಣ್ಯಶಾಸ್ತ್ರೀಯ ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "ನಾಣ್ಯ ವ್ಯಾಪಾರಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "ವ್ಯಾನಿಲ್ಲಾ ವ್ಯಾಪಾರಗಳನ್ನು ಬದಲಿಸಿ",
+    "numismatic_villager_trades.configuration.maxUses":  "ವ್ಯಾಪಾರದ ಗರಿಷ್ಠ ಬಳಕೆಗಳು",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "ಗಣಿಗಾರ"
+}

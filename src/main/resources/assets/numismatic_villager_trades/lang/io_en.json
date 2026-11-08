@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatika komerci di vilajani",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatika komerci di vilajani",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatika komerci di vilajani",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktivigar monet-komerci",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Remplasar vanilla-komerci",
+    "numismatic_villager_trades.configuration.maxUses":  "Maxima uzi di komerco",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Komerci di vilajani",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Ministo"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: ნუმიზმატიკური სოფლის მცხოვრებლის ვაჭრობა",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: ნუმიზმატიკური სოფლის მცხოვრებლის ვაჭრობა",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: ნუმიზმატიკური სოფლის მცხოვრებლის ვაჭრობა",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "მონეტებით ვაჭრობის ჩართვა",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "ვანილის ვაჭრობის ჩანაცვლება",
+    "numismatic_villager_trades.configuration.maxUses":  "ვაჭრობის მაქსიმალური გამოყენებები",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "სოფლის მცხოვრებლის ვაჭრობა",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "მაღაროელი"
+}

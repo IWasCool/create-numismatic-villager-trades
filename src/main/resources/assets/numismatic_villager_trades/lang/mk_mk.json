@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматички трговии на селани",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматички трговии на селани",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматички трговии на селани",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Овозможи трговии со монети",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Замени vanilla трговии",
+    "numismatic_villager_trades.configuration.maxUses":  "Максимални користења на трговија",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Трговии на селани",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Рудар"
+}

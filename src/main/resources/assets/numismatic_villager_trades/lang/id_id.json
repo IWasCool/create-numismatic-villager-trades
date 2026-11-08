@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Perdagangan numismatik penduduk desa",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Perdagangan numismatik penduduk desa",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Perdagangan numismatik penduduk desa",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktifkan perdagangan koin",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ganti perdagangan vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Penggunaan maksimum perdagangan",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Perdagangan penduduk desa",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Penambang"
+}

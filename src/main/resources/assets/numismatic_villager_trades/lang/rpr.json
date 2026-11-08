@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматическiя торги селянъ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматическiя торги селянъ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматическiя торги селянъ",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Включить монетныя торги",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Заменить обычныя торги",
+    "numismatic_villager_trades.configuration.maxUses":  "Максимумъ использованiй торга",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Торги селянъ",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Рудокопъ"
+}

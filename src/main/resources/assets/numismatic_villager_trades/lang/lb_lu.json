@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatesch Duerfbewunner-Handelen",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatesch Duerfbewunner-Handelen",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatesch Duerfbewunner-Handelen",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Mënzhandelen aktivéieren",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-Handelen ersetzen",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximal Handelsbenotzungen",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Duerfbewunner-Handelen",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Biergaarbechter"
+}

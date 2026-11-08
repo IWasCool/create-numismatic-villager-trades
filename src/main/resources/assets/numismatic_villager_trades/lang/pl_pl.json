@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatyczne transakcje osadników",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatyczne transakcje osadników",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatyczne transakcje osadników",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Włącz transakcje monetami",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zastąp transakcje vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksymalna liczba użyć transakcji",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Transakcje osadników",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Górnik"
+}

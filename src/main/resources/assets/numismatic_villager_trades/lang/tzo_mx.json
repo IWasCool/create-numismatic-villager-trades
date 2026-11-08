@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Slo\u0027il tak\u0027in ta jteklumetik",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Slo\u0027il tak\u0027in ta jteklumetik",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Slo\u0027il tak\u0027in ta jteklumetik",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ak\u0027o ta spasel slo\u0027il tak\u0027in",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "K\u0027exo slo\u0027il vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Jayibuk xu\u0027 ta tunesel slo\u0027il",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Slo\u0027il jteklumetik",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Jk\u0027opoj ch\u0027en"
+}

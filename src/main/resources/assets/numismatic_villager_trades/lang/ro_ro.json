@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Schimburi numismatice ale sătenilor",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Schimburi numismatice ale sătenilor",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Schimburi numismatice ale sătenilor",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activează schimburile cu monede",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Înlocuiește schimburile vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Utilizări maxime ale schimbului",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Schimburi ale sătenilor",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Miner"
+}

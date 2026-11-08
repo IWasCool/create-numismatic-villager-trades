@@ -1,0 +1,174 @@
+{
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 10,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:turtle_scute"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:sea_pickle"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:fishing_rod"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cod"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:salmon"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:tropical_fish"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:ink_sac"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:glow_ink_sac"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:kelp"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:seagrass"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

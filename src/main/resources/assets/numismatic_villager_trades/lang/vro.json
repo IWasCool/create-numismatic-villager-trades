@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismaatilids küläinemiids kauplõmisõq",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismaatilids küläinemiids kauplõmisõq",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismaatilids küläinemiids kauplõmisõq",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Lülidä mündikauplõmisõq sisse",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Asenda vanilla-kauplõmisõq",
+    "numismatic_villager_trades.configuration.maxUses":  "Kauplõmisõ suurim kasutuskõrd",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Küläinemiids kauplõmisõq",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Kaivaja"
+}

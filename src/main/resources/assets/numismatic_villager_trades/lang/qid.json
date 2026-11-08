@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatic Villager Trades",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatic Villager Trades",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatic Villager Trades",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Enable Coin Trades",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Replace Vanilla Trades",
+    "numismatic_villager_trades.configuration.maxUses":  "Trade Max Uses",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Villager Trades",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Miner"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatiniai kaimiečių mainai",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatiniai kaimiečių mainai",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatiniai kaimiečių mainai",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Įjungti monetų mainus",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Pakeisti vanilla mainus",
+    "numismatic_villager_trades.configuration.maxUses":  "Didžiausias mainų naudojimų skaičius",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Kaimiečių mainai",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Kasėjas"
+}

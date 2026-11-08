@@ -1,0 +1,542 @@
+{
+  "tiers": [
+    {
+      "total_exp_required": 0,
+      "groups": [
+        {
+          "num_to_select": 33,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:shears"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:white_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:orange_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:magenta_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:light_blue_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:yellow_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:lime_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:pink_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:gray_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:light_gray_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cyan_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:purple_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:blue_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:brown_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:green_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:red_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:black_wool"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:white_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:orange_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:magenta_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:light_blue_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:yellow_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:lime_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:pink_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:gray_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:light_gray_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:cyan_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:purple_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:blue_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:brown_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:green_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:red_dye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:black_dye"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismáhtalaš giliservodaga gávppit",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismáhtalaš giliservodaga gávppit",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismáhtalaš giliservodaga gávppit",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Váldde ruđagávppiid atnui",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Buhtte vanilla-gávppiid",
+    "numismatic_villager_trades.configuration.maxUses":  "Gávppi eanemus geavahusat",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Giliservodaga gávppit",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Ruvkkibargi"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatik kəndli ticarətləri",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatik kəndli ticarətləri",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatik kəndli ticarətləri",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Sikkə ticarətlərini aktiv et",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanil ticarətlərini əvəz et",
+    "numismatic_villager_trades.configuration.maxUses":  "Ticarətin maksimum istifadəsi",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Kəndli ticarətləri",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mədənçi"
+}

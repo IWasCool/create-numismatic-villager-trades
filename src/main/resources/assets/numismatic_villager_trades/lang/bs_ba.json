@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatičke trgovine seljana",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatičke trgovine seljana",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatičke trgovine seljana",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Omogući trgovine novčićima",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zamijeni vanilla trgovine",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksimalan broj korištenja trgovine",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Trgovine seljana",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Rudar"
+}

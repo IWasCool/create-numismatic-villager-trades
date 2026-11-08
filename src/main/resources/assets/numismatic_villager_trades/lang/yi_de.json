@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "אַקטיווירן מטבע־האַנדלען",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "פֿאַרבײַטן vanilla האַנדלען",
+    "numismatic_villager_trades.configuration.maxUses":  "מאַקסימום באַניצן פֿון האַנדל",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "האַנדלען פֿון דערפֿלער",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "מינער"
+}

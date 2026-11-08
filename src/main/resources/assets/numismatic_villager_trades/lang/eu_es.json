@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Herritarren truke numismatikoak",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Herritarren truke numismatikoak",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Herritarren truke numismatikoak",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Gaitu txanpon-trukeak",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ordeztu vanilla trukeak",
+    "numismatic_villager_trades.configuration.maxUses":  "Trukearen gehienezko erabilerak",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Herritarren trukeak",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Meatzaria"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Masnachau rhifismateg pentrefwyr",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Masnachau rhifismateg pentrefwyr",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Masnachau rhifismateg pentrefwyr",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Galluogi masnachau darnau arian",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Disodli masnachau vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Defnyddiau masnach mwyaf",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Masnachau pentrefwyr",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Glowr"
+}

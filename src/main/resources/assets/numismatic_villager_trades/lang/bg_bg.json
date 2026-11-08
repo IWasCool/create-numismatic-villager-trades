@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматични сделки на селяни",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматични сделки на селяни",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматични сделки на селяни",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Активиране на сделки с монети",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Замяна на ванилните сделки",
+    "numismatic_villager_trades.configuration.maxUses":  "Максимални използвания на сделка",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Сделки на селяни",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Миньор"
+}

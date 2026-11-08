@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatesche Dörpbewohner-Handele",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatesche Dörpbewohner-Handele",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatesche Dörpbewohner-Handele",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Münzhandel aanmaache",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-Handele ersetze",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximale Handelsnutzunge",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Dörpbewohner-Handele",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Bergmann"
+}

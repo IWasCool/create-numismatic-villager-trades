@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatische Dörfler-Handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatische Dörfler-Handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatische Dörfler-Handel",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Münzhandel einschaltn",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-Handel ersetzn",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximale Handelsnutzungen",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Dörfler-Handel",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Bergmaa"
+}

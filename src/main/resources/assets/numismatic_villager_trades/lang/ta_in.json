@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "நாணய பரிமாற்றங்களை இயக்கு",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla பரிமாற்றங்களை மாற்று",
+    "numismatic_villager_trades.configuration.maxUses":  "பரிமாற்றத்தின் அதிகபட்ச பயன்பாடுகள்",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "கிராமவாசி பரிமாற்றங்கள்",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "சுரங்கத் தொழிலாளர்"
+}

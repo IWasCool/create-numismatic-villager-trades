@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: עסקאות נומיסמטיות של כפריים",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: עסקאות נומיסמטיות של כפריים",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: עסקאות נומיסמטיות של כפריים",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "הפעל עסקאות מטבעות",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "החלף עסקאות ונילה",
+    "numismatic_villager_trades.configuration.maxUses":  "מספר שימושים מרבי לעסקה",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "עסקאות כפריים",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "כורה"
+}

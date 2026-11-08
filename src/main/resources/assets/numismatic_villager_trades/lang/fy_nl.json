@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatyske doarpsbewennerhannels",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatyske doarpsbewennerhannels",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatyske doarpsbewennerhannels",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Mynthannels ynskeakelje",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-hannels ferfange",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksimum hannelsgebrûk",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Doarpsbewennerhannels",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mynwurker"
+}

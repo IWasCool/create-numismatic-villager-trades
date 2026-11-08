@@ -1,0 +1,3122 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 84,
+          "trades": [
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:crown",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:sharpness"
+                    ],
+                    "min_level": 5,
+                    "max_level": 5
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:crown",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:smite"
+                    ],
+                    "min_level": 5,
+                    "max_level": 5
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:crown",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:bane_of_arthropods"
+                    ],
+                    "min_level": 5,
+                    "max_level": 5
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:crown",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:efficiency"
+                    ],
+                    "min_level": 5,
+                    "max_level": 5
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:crown",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:power"
+                    ],
+                    "min_level": 5,
+                    "max_level": 5
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:crown",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:mending"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:protection"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fire_protection"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:feather_falling"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:blast_protection"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:projectile_protection"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:sharpness"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:smite"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:bane_of_arthropods"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:efficiency"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:power"
+                    ],
+                    "min_level": 4,
+                    "max_level": 4
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:infinity"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:silk_touch"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:flame"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:protection"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fire_protection"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:feather_falling"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:blast_protection"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:projectile_protection"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:respiration"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:thorns"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:depth_strider"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:sharpness"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:smite"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:bane_of_arthropods"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:looting"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:efficiency"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:unbreaking"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fortune"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:power"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:luck_of_the_sea"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:lure"
+                    ],
+                    "min_level": 3,
+                    "max_level": 3
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:aqua_affinity"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:channeling"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:multishot"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:protection"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fire_protection"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:feather_falling"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:blast_protection"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:projectile_protection"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:sharpness"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:smite"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:bane_of_arthropods"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:knockback"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fire_aspect"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:looting"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:efficiency"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:unbreaking"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:power"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:punch"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:luck_of_the_sea"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:lure"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:respiration"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:thorns"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:depth_strider"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fortune"
+                    ],
+                    "min_level": 2,
+                    "max_level": 2
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:protection"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fire_protection"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:feather_falling"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:blast_protection"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:projectile_protection"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:respiration"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:thorns"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:depth_strider"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:sharpness"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:smite"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:bane_of_arthropods"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:knockback"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fire_aspect"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:looting"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:efficiency"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:unbreaking"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:fortune"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:power"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:punch"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:luck_of_the_sea"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:lure"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:binding_curse"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "cost_b": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:book",
+                "functions": [
+                  {
+                    "function": "villagerconfig:enchant_randomly",
+                    "include": [
+                      "minecraft:vanishing_curse"
+                    ],
+                    "min_level": 1,
+                    "max_level": 1
+                  }
+                ]
+              },
+              "max_uses": 999
+            }
+          ]
+        }
+      ],
+      "total_exp_required": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: تجارة القرويين بالنقود",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: تجارة القرويين بالنقود",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: تجارة القرويين بالنقود",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "تفعيل تجارة العملات",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "استبدال تجارة فانيلا",
+    "numismatic_villager_trades.configuration.maxUses":  "الحد الأقصى لاستخدامات التجارة",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "تجارة القرويين",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "عامل منجم"
+}

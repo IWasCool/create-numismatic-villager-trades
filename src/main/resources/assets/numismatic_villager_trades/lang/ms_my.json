@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Dagangan numismatik penduduk kampung",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Dagangan numismatik penduduk kampung",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Dagangan numismatik penduduk kampung",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Dayakan dagangan syiling",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Gantikan dagangan vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Penggunaan maksimum dagangan",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Dagangan penduduk kampung",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Pelombong"
+}

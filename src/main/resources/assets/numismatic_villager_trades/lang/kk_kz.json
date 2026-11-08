@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Тиын саудаларын қосу",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla саудаларын ауыстыру",
+    "numismatic_villager_trades.configuration.maxUses":  "Сауданың ең көп қолданылуы",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Ауыл тұрғыны саудалары",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Кенші"
+}

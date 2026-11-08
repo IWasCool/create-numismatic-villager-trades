@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "ເປີດໃຊ້ການຄ້າເຫຼຽນ",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "ແທນທີ່ການຄ້າ vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "ຈຳນວນໃຊ້ການຄ້າສູງສຸດ",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "ການຄ້າຂອງຊາວບ້ານ",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "ຄົນຂຸດແຮ່"
+}

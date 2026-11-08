@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: esun mani pi jan tomo ma",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: esun mani pi jan tomo ma",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: esun mani pi jan tomo ma",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "o ken e esun mani",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "o ante e esun nasin open",
+    "numismatic_villager_trades.configuration.maxUses":  "mute kepeken esun suli",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "esun pi jan tomo ma",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "jan pi kama jo kiwen"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Huch tejwI\u0027 vengHom ngan mechmey",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Huch tejwI\u0027 vengHom ngan mechmey",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Huch tejwI\u0027 vengHom ngan mechmey",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "HuchHom mechmey tIchu\u0027",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "vanilla mechmey yIngu\u0027",
+    "numismatic_villager_trades.configuration.maxUses":  "mech lo\u0027 mI\u0027 \u0027aqroS",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "vengHom ngan mechmey",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "tlhIlwI\u0027"
+}

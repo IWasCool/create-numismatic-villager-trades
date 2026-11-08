@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: jdini cnemu\u0027u po lo cmatca",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: jdini cnemu\u0027u po lo cmatca",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: jdini cnemu\u0027u po lo cmatca",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "tolcando lo jdini canja",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "bastygau lo vanilla canja",
+    "numismatic_villager_trades.configuration.maxUses":  "traji selpilno be lo canja",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "cmatca canja",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "kunra zvati"
+}

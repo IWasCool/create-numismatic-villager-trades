@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумізматычныя гандлі вяскоўцаў",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумізматычныя гандлі вяскоўцаў",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумізматычныя гандлі вяскоўцаў",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Уключыць гандаль манетамі",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Замяніць стандартныя гандлі",
+    "numismatic_villager_trades.configuration.maxUses":  "Максімум выкарыстанняў гандлю",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Гандлі вяскоўцаў",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Шахцёр"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismaatilised külaelanike tehingud",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismaatilised külaelanike tehingud",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismaatilised külaelanike tehingud",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Luba münditehingud",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Asenda vanilla-tehingud",
+    "numismatic_villager_trades.configuration.maxUses":  "Tehingu maksimaalsed kasutused",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Külaelanike tehingud",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Kaevur"
+}

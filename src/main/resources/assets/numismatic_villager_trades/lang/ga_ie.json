@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Trádálacha uimhismatacha sráidbhailteoirí",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Trádálacha uimhismatacha sráidbhailteoirí",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Trádálacha uimhismatacha sráidbhailteoirí",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Cumasaigh trádálacha bonn",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Cuir trádálacha vanilla in ionad",
+    "numismatic_villager_trades.configuration.maxUses":  "Uasúsáidí trádála",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Trádálacha sráidbhailteoirí",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mianadóir"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Scambis numismatics dai vilans",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Scambis numismatics dai vilans",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Scambis numismatics dai vilans",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Abilite i scambis cun monetis",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Sostituìs i scambis vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Ûs massims dal scambi",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Scambis dai vilans",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minadôr"
+}

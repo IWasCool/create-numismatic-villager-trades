@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Échanges numismatiques des villageois",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Échanges numismatiques des villageois",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Échanges numismatiques des villageois",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activer les échanges de pièces",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Remplacer les échanges vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Utilisations maximales de l\u0027échange",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Échanges des villageois",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mineur"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatik qishloqlik savdolari",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatik qishloqlik savdolari",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatik qishloqlik savdolari",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Tanga savdolarini yoqish",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla savdolarini almashtirish",
+    "numismatic_villager_trades.configuration.maxUses":  "Savdoning maksimal ishlatilishi",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Qishloqlik savdolari",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Konchi"
+}

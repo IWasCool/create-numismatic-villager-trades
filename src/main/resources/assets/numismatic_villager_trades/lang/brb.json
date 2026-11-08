@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatieke dorpsbewonershandel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatieke dorpsbewonershandel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatieke dorpsbewonershandel",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Munt handel inschakelen",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-handel vervangen",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximale handelsgebruiken",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Dorpsbewonershandel",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mijnwerker"
+}

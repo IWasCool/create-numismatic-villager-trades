@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatiskir bygdarfólkahandlar",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiskir bygdarfólkahandlar",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiskir bygdarfólkahandlar",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Virka myntahandlar",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Skift vanilla-handlar út",
+    "numismatic_villager_trades.configuration.maxUses":  "Mest nýtslur av handli",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Bygdarfólkahandlar",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Námsarbeiðari"
+}

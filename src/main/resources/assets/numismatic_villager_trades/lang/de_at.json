@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatische Dorfbewohner-Handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatische Dorfbewohner-Handel",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatische Dorfbewohner-Handel",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Münzhandel aktivieren",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-Handel ersetzen",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximale Handelsnutzungen",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Dorfbewohner-Handel",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Bergarbeiter"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: معامله‌های سکه‌شناسی روستاییان",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: معامله‌های سکه‌شناسی روستاییان",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: معامله‌های سکه‌شناسی روستاییان",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "فعال‌کردن معامله‌های سکه",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "جایگزینی معامله‌های وانیلا",
+    "numismatic_villager_trades.configuration.maxUses":  "بیشترین استفاده‌های معامله",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "معامله‌های روستاییان",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "معدنچی"
+}

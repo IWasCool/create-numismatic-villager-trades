@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Тәңкә сауҙаларын ҡабыҙырға",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ғәҙәти сауҙаларҙы алмаштырырға",
+    "numismatic_villager_trades.configuration.maxUses":  "Сауҙаның иң күп ҡулланыуы",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Ауыл кешеһе сауҙалары",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Шахтер"
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ourcreation.numismaticvillagertrades.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "VillagerTradeMixin"
+  ],
+  "client": [
+    "client.MerchantTradeButtonMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

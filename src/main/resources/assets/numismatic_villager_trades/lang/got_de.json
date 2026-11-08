@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Skattamanga uslukjan",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-manga afwandjan",
+    "numismatic_villager_trades.configuration.maxUses":  "Maist brukjan manga",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Haimabaurgjamangawaurkjos",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Daljaurkei"
+}

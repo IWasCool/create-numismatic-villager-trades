@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismatiska byboaffärer",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiska byboaffärer",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiska byboaffärer",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktivera mynthandel",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ersätt vanilla-handel",
+    "numismatic_villager_trades.configuration.maxUses":  "Maximala handelsanvändningar",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Byboaffärer",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gruvarbetare"
+}

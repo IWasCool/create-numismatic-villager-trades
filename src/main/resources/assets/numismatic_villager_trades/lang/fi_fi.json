@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numismaattiset kyläläiskaupat",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismaattiset kyläläiskaupat",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismaattiset kyläläiskaupat",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ota kolikkokaupat käyttöön",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Korvaa vanilla-kaupat",
+    "numismatic_villager_trades.configuration.maxUses":  "Kaupan enimmäiskäytöt",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Kyläläiskaupat",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Kaivostyöläinen"
+}

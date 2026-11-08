@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatyčnyja handli viaskoŭcaŭ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatyčnyja handli viaskoŭcaŭ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatyčnyja handli viaskoŭcaŭ",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Uklučyć handel manietami",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zamianić standartnyja handli",
+    "numismatic_villager_trades.configuration.maxUses":  "Maksimum vykarystańniaŭ handlu",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Handli viaskoŭcaŭ",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Šachcior"
+}

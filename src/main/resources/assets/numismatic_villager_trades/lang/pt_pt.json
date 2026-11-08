@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Trocas numismáticas de aldeões",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Trocas numismáticas de aldeões",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Trocas numismáticas de aldeões",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ativar trocas com moedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Substituir trocas vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos da troca",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Trocas de aldeões",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mineiro"
+}

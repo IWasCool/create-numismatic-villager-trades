@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Ahịa ego ndị obodo",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Ahịa ego ndị obodo",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Ahịa ego ndị obodo",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Kwado ahịa mkpụrụ ego",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Dochie ahịa vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Ojiji ahịa kacha elu",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Ahịa ndị obodo",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Onye na-egwu ala"
+}

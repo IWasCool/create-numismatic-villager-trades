@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нуумизматикалыы сирэйдээх сауда",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нуумизматикалыы сирэйдээх сауда",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нуумизматикалыы сирэйдээх сауда",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Тыйын саудатын холбоо",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla саудатын уларытыы",
+    "numismatic_villager_trades.configuration.maxUses":  "Сауда максимум туттуллуута",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Сирэйдээх саудата",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Көмүс кэрдьээччи"
+}

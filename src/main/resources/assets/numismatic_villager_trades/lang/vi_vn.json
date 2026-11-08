@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Giao dịch tiền cổ của dân làng",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Giao dịch tiền cổ của dân làng",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Giao dịch tiền cổ của dân làng",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Bật giao dịch bằng xu",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Thay thế giao dịch vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Số lần dùng giao dịch tối đa",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Giao dịch dân làng",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Thợ mỏ"
+}

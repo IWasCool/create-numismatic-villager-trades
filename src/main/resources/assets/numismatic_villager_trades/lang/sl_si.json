@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Numizmatične trgovine vaščanov",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatične trgovine vaščanov",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatične trgovine vaščanov",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Omogoči trgovine s kovanci",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zamenjaj vanilla trgovine",
+    "numismatic_villager_trades.configuration.maxUses":  "Največ uporab trgovine",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Trgovine vaščanov",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Rudar"
+}

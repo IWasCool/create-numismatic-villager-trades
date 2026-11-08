@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Intercanvis numismàtics dels vilatans",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Intercanvis numismàtics dels vilatans",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Intercanvis numismàtics dels vilatans",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activa els intercanvis amb monedes",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Substituïx els intercanvis vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usos màxims de l\u0027intercanvi",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Intercanvis de vilatans",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Miner"
+}

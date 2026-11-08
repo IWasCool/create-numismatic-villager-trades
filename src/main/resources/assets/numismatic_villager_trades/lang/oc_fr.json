@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Escambis numismatics dels vilatgeses",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Escambis numismatics dels vilatgeses",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Escambis numismatics dels vilatgeses",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activar los escambis amb monedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Remplaçar los escambis vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Usatges maxims de l\u0027escambi",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Escambis dels vilatgeses",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minier"
+}

@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Нумізматичны торгы селян",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумізматичны торгы селян",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумізматичны торгы селян",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Увімкнути торгы монетами",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Замінити звичайны торгы",
+    "numismatic_villager_trades.configuration.maxUses":  "Максимум використань торгу",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Торгы селян",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Шахтар"
+}

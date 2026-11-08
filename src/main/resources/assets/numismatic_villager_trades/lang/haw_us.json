@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: Nā kālepa kālā a nā kamaʻāina kauhale",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Nā kālepa kālā a nā kamaʻāina kauhale",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Nā kālepa kālā a nā kamaʻāina kauhale",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "Hoʻā i nā kālepa kālā",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Hoʻololi i nā kālepa vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "Nā hoʻohana kiʻekiʻe o ke kālepa",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "Nā kālepa kamaʻāina kauhale",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mea ʻeli maina"
+}

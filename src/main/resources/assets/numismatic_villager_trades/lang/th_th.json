@@ -1,0 +1,10 @@
+{
+    "numismatic_villager_trades.configuration.title":  "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "numismatic_villager_trades.configuration.enableCoinTrades":  "เปิดใช้การค้าเหรียญ",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "แทนที่การค้า vanilla",
+    "numismatic_villager_trades.configuration.maxUses":  "จำนวนใช้งานการค้าสูงสุด",
+    "gui.numismatic_villager_trades.jei.villager_trades":  "การค้าชาวบ้าน",
+    "entity.minecraft.villager.numismatic_villager_trades.miner":  "คนขุดแร่"
+}
