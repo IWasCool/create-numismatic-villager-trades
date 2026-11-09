@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Luba münditehingud",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Asenda vanilla-tehingud",
     "numismatic_villager_trades.configuration.maxUses": "Tehingu maksimaalsed kasutused",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Külaelanike tehingud",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Külaelanike tehingud",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Kaevur",
-    "gui.numismatic_villager_trades.trades.search": "Otsi esemeid, loitse või ameteid...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Kõik ametid",
-    "gui.numismatic_villager_trades.trades.empty": "Sobivaid tehinguid pole",
     "gui.numismatic_villager_trades.trades.job_site": "Külaelaniku töökoht (ei kulu ära)",
-    "key.numismatic_villager_trades.browse_trades": "Sirvi külaelanike tehinguid",
-    "key.categories.numismatic_villager_trades": "Create: Numismaatilised külaelanike tehingud",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

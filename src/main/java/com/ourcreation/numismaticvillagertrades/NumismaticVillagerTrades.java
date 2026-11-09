@@ -182,6 +182,20 @@ public final class NumismaticVillagerTrades {
         return COIN_VALUES.get(coin) * cost.getCount();
     }
 
+    /** Fixed-size native viewer pages keep every offer indexed and visible on its matching page. */
+    public static List<TradePage> buildTradePages(RegistryAccess registryAccess, int pageSize) {
+        if (pageSize < 1) throw new IllegalArgumentException("Page size must be positive");
+        List<TradePage> pages = new ArrayList<>();
+        for (ProfessionTrades profession : buildProfessionTrades(registryAccess)) {
+            for (int first = 0; first < profession.trades().size(); first += pageSize) {
+                pages.add(new TradePage(profession.professionId(),
+                        profession.trades().subList(first, Math.min(first + pageSize, profession.trades().size())),
+                        first, profession.trades().size()));
+            }
+        }
+        return List.copyOf(pages);
+    }
+
     private static List<MerchantOffer> createOffers(TradeSpec spec, RegistryAccess registryAccess, RandomSource random) {
         ItemCost costA = spec.costA().toItemCost();
         if (costA == null) {
@@ -359,6 +373,18 @@ public final class NumismaticVillagerTrades {
     public record ProfessionTrades(ResourceLocation professionId, List<TradeDisplay> trades) {
         public ProfessionTrades {
             trades = List.copyOf(trades);
+        }
+    }
+
+    public record TradePage(ResourceLocation professionId, List<TradeDisplay> trades, int firstRow, int totalRows) {
+        public TradePage {
+            trades = List.copyOf(trades);
+        }
+
+        public ResourceLocation id() {
+            return ResourceLocation.fromNamespaceAndPath(CreateNumismaticVillagerTrades.MODID,
+                    "/villager_trades/" + professionId.getNamespace() + "/" + professionId.getPath()
+                            + "/" + String.format(java.util.Locale.ROOT, "%04d", firstRow));
         }
     }
 }

@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Ota kolikkokaupat käyttöön",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Korvaa vanilla-kaupat",
     "numismatic_villager_trades.configuration.maxUses": "Kaupan enimmäiskäytöt",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Kyläläiskaupat",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Kyläläiskaupat",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Kaivostyöläinen",
-    "gui.numismatic_villager_trades.trades.search": "Etsi esineitä, lumouksia tai ammatteja...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Kaikki ammatit",
-    "gui.numismatic_villager_trades.trades.empty": "Ei vastaavia kauppoja",
     "gui.numismatic_villager_trades.trades.job_site": "Kyläläisen työpiste (ei kulu)",
-    "key.numismatic_villager_trades.browse_trades": "Selaa kyläläiskauppoja",
-    "key.categories.numismatic_villager_trades": "Create: Numismaattiset kyläläiskaupat",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

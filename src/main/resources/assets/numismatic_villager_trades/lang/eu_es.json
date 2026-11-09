@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Gaitu txanpon-trukeak",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Ordeztu vanilla trukeak",
     "numismatic_villager_trades.configuration.maxUses": "Trukearen gehienezko erabilerak",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Herritarren trukeak",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Herritarren trukeak",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Meatzaria",
-    "gui.numismatic_villager_trades.trades.search": "Bilatu objektuak, sorginkeriak edo lanbideak...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Lanbide guztiak",
-    "gui.numismatic_villager_trades.trades.empty": "Ez dago bat datorren trukerik",
     "gui.numismatic_villager_trades.trades.job_site": "Herritarraren lantokia (ez da kontsumitzen)",
-    "key.numismatic_villager_trades.browse_trades": "Arakatu herritarren trukeak",
-    "key.categories.numismatic_villager_trades": "Create: Herritarren truke numismatikoak",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

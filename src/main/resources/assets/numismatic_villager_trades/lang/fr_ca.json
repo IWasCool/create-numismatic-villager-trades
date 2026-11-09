@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Activer les échanges de pièces",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Remplacer les échanges vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Utilisations maximales de l'échange",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Échanges des villageois",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Échanges des villageois",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Mineur",
-    "gui.numismatic_villager_trades.trades.search": "Rechercher des objets, enchantements ou professions...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Toutes les professions",
-    "gui.numismatic_villager_trades.trades.empty": "Aucun échange correspondant",
     "gui.numismatic_villager_trades.trades.job_site": "Poste de travail du villageois (non consommé)",
-    "key.numismatic_villager_trades.browse_trades": "Parcourir les échanges des villageois",
-    "key.categories.numismatic_villager_trades": "Create: Échanges numismatiques des villageois",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

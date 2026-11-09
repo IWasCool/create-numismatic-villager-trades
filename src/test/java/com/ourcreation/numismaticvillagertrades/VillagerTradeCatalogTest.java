@@ -85,8 +85,10 @@ class VillagerTradeCatalogTest {
     }
 
     @Test
-    void browserMatchesEveryActualOfferWithoutJei(MinecraftServer server) {
-        assertFalse(ModList.get().isLoaded("jei"), "This server test must run without JEI");
+    void viewerCatalogMatchesEveryActualOfferWithoutRecipeViewers(MinecraftServer server) {
+        for (String viewer : List.of("jei", "emi", "roughlyenoughitems")) {
+            assertFalse(ModList.get().isLoaded(viewer), "Server trades must work without recipe viewers: " + viewer);
+        }
         var displays = NumismaticVillagerTrades.buildTradeDisplays(server.registryAccess());
         var byProfession = displays.stream().collect(Collectors.groupingBy(TradeDisplay::professionId));
         assertEquals(14, byProfession.size());
@@ -132,6 +134,30 @@ class VillagerTradeCatalogTest {
                 .findFirst().orElseThrow();
         assertTrue(librarian.trades().size() > 6, "Long lists must remain a single profession page");
         assertTrue(librarian.trades().stream().allMatch(trade -> trade.result().is(Items.ENCHANTED_BOOK)));
+    }
+
+    @Test
+    void nativeViewerPagesKeepEveryOfferAndItsEnchantmentInOrder(MinecraftServer server) {
+        var professions = NumismaticVillagerTrades.buildProfessionTrades(server.registryAccess());
+        var pages = NumismaticVillagerTrades.buildTradePages(server.registryAccess(), 6);
+        assertEquals(pages.size(), pages.stream().map(page -> page.id()).distinct().count());
+        for (var profession : professions) {
+            var matching = pages.stream().filter(page -> page.professionId().equals(profession.professionId())).toList();
+            int index = 0;
+            for (var page : matching) {
+                assertEquals(index, page.firstRow());
+                assertEquals(profession.trades().size(), page.totalRows());
+                assertTrue(page.trades().size() > 0 && page.trades().size() <= 6);
+                for (var actual : page.trades()) {
+                    var expected = profession.trades().get(index++);
+                    assertStackEquals(expected.costA(), actual.costA());
+                    assertStackEquals(expected.costB(), actual.costB());
+                    assertStackEquals(expected.result(), actual.result());
+                }
+            }
+            assertEquals(profession.trades().size(), index);
+        }
+        assertThrows(IllegalArgumentException.class, () -> NumismaticVillagerTrades.buildTradePages(server.registryAccess(), 0));
     }
 
     @Test

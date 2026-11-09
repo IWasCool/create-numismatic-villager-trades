@@ -4,9 +4,12 @@ All versions below are for Minecraft 1.21.1 / NeoForge.
 
 ## v1.0.0 | Full Release
 
-- Added Missing Trade Browser, Search, Job Site, And Keybind Translations
-- Completed All 16 UI Translation Keys Across 143 Locale Files And Added Build-Time Key And Placeholder Validation
-- Matched Villager And Built-In Browser Trade Ordering To JEI: Cheapest To Most Expensive By Total Coin Value, Preserving Equal-Price Item Order
+- Added Native EMI And Roughly Enough Items (REI) Integrations Alongside JEI
+- Removed The Standalone Trade Browser Screen, V Keybind, And Extra Trade-Browser Buttons
+- Kept Trade Browsing Inside Each Recipe Viewer, With Searchable Inputs And Outputs, Profession Names, Job Sites, And Villager Previews
+- Updated All 143 Locale Files For The 10 Remaining Viewer And Configuration Translation Keys
+- Added Build-Time Translation Key And Placeholder Validation
+- Matched Villager And Recipe-Viewer Trade Ordering: Cheapest To Most Expensive By Total Coin Value, Preserving Equal-Price Item Order
 - Applied The Same Ordering When Existing Villagers Load Or Their Trading Screen Opens
 - Verified NeoForge 21.1.241 Compatibility So Both Tempo Test Packs Can Use The Same Build
 - Redesigned The Miner And Zombie Miner Outfits With Slate-Blue Work Shirts, Charcoal Overalls, Tan Suspenders, Utility Pockets, And Dark Boots On The Original 64x64 Pixel Grid
@@ -14,7 +17,7 @@ All versions below are for Minecraft 1.21.1 / NeoForge.
 - Published The Public GitHub Source Repository Under The MIT License
 - Included The Mod And NeoForge Template License Notices In The JAR
 - Made Build Dependencies Download Automatically Without Local Modpack JARs
-- Added Optional Villagers Reborn Compatibility For Human NPC Models And World-Themed Skins In JEI Previews
+- Added Optional Villagers Reborn Compatibility For Human NPC Models And World-Themed Skins In Recipe-Viewer Previews
 - Removed The Trade Browser Button From Villager Trading Screens
 - Rebalanced All Professions With Smaller Price Steps And Reduced 286 Overpriced Offers
 - Priced Finished Armor And Tools Around Twice One Unit Of Their Material Instead Of Charging For Every Crafting Ingredient
@@ -23,13 +26,10 @@ All versions below are for Minecraft 1.21.1 / NeoForge.
 - Grouped All JEI Trades Into One Page Per Villager Profession, With A Villager Preview And Job Site
 - Added Mouse Wheel Scrolling And A Draggable Scrollbar For Long Profession Trade Lists
 - Kept Every Trade Searchable In JEI And Automatically Scrolled To Matching Items
-- Added A Searchable Villager Trade Browser With Profession Filters And Item Tooltips
-- Added A Configurable V Keybind For The Trade Browser
-- Automatically Open The Numismatic JEI Trade Category When Available
 - Fixed Missing JEI Trade Listings When Create: New World Core Hides JER's Villager Category
 - Published Coin Trades To The Shared Villager Trade Table For Trade Viewer Compatibility
-- Matched Browser Listings To Actual Available Offers, Including Enchantments And Optional Mod Items
-- Added Profession Job Sites To JEI Trade Listings
+- Matched Recipe-Viewer Listings To Actual Available Offers, Including Enchantments And Optional Mod Items
+- Added Profession Job Sites To Recipe-Viewer Trade Listings
 
 ## v0.0.3 | Balance Update
 - Added Nether Wart To Cleric Trades For One Cog Each

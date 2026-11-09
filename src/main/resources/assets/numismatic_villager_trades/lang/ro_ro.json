@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Activează schimburile cu monede",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Înlocuiește schimburile vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Utilizări maxime ale schimbului",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Schimburi ale sătenilor",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Schimburi ale sătenilor",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Miner",
-    "gui.numismatic_villager_trades.trades.search": "Caută obiecte, farmece sau profesii...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Toate profesiile",
-    "gui.numismatic_villager_trades.trades.empty": "Nu există schimburi potrivite",
     "gui.numismatic_villager_trades.trades.job_site": "Locul de muncă al săteanului (nu se consumă)",
-    "key.numismatic_villager_trades.browse_trades": "Răsfoiește schimburile sătenilor",
-    "key.categories.numismatic_villager_trades": "Create: Schimburi numismatice ale sătenilor",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Iespējot monētu darījumus",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Aizstāt vanilla darījumus",
     "numismatic_villager_trades.configuration.maxUses": "Maksimālais darījuma lietojumu skaits",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Cieminieku darījumi",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Cieminieku darījumi",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Kalnracis",
-    "gui.numismatic_villager_trades.trades.search": "Meklēt priekšmetus, burvestības vai profesijas...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Visas profesijas",
-    "gui.numismatic_villager_trades.trades.empty": "Nav atbilstošu darījumu",
     "gui.numismatic_villager_trades.trades.job_site": "Cieminieka darbavieta (netiek patērēta)",
-    "key.numismatic_villager_trades.browse_trades": "Pārlūkot cieminieku darījumus",
-    "key.categories.numismatic_villager_trades": "Create: Numismātiskie cieminieku darījumi",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

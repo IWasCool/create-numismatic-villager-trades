@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Włącz transakcje monetami",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Zastąp transakcje vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Maksymalna liczba użyć transakcji",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Transakcje osadników",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Transakcje osadników",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Górnik",
-    "gui.numismatic_villager_trades.trades.search": "Szukaj przedmiotów, zaklęć lub profesji...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Wszystkie profesje",
-    "gui.numismatic_villager_trades.trades.empty": "Brak pasujących ofert",
     "gui.numismatic_villager_trades.trades.job_site": "Stanowisko pracy osadnika (nie jest zużywane)",
-    "key.numismatic_villager_trades.browse_trades": "Przeglądaj oferty osadników",
-    "key.categories.numismatic_villager_trades": "Create: Numizmatyczne transakcje osadników",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

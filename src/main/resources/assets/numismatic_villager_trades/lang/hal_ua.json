@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Увімкнути монетні торги",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Замінити звичайні торги",
     "numismatic_villager_trades.configuration.maxUses": "Максимум використань торгу",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Торги селян",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Торги селян",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Шахтар",
-    "gui.numismatic_villager_trades.trades.search": "Пошук предметів, зачарувань або професій...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Усі професії",
-    "gui.numismatic_villager_trades.trades.empty": "Немає відповідних торгів",
     "gui.numismatic_villager_trades.trades.job_site": "Робоче місце селянина (не витрачається)",
-    "key.numismatic_villager_trades.browse_trades": "Перегляд торгів селян",
-    "key.categories.numismatic_villager_trades": "Create: Нумізматичні торги селян",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

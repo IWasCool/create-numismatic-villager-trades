@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Daar ganacsiyada shilimaadka",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Beddel ganacsiyada vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Isticmaalka ugu badan ee ganacsiga",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Ganacsiyada tuulooyinka",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Ganacsiyada tuulooyinka",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Macdan-qode",
-    "gui.numismatic_villager_trades.trades.search": "Raadi alaab, sixir ama xirfado...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Dhammaan xirfadaha",
-    "gui.numismatic_villager_trades.trades.empty": "Ma jiraan ganacsiyo ku habboon",
     "gui.numismatic_villager_trades.trades.job_site": "Goobta shaqada ee qofka tuulada (ma dhammaato marka la isticmaalo)",
-    "key.numismatic_villager_trades.browse_trades": "Eeg ganacsiyada dadka tuulada",
-    "key.categories.numismatic_villager_trades": "Create: Ganacsiyada lacag-ururinta tuulooyinka",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

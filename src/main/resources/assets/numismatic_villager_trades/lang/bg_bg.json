@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Активиране на сделки с монети",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Замяна на ванилните сделки",
     "numismatic_villager_trades.configuration.maxUses": "Максимални използвания на сделка",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Сделки на селяни",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Сделки на селяни",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Миньор",
-    "gui.numismatic_villager_trades.trades.search": "Търсене на предмети, омагьосвания или професии...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Всички професии",
-    "gui.numismatic_villager_trades.trades.empty": "Няма съвпадащи сделки",
     "gui.numismatic_villager_trades.trades.job_site": "Работно място на селянин (не се изразходва)",
-    "key.numismatic_villager_trades.browse_trades": "Преглед на сделки на селяни",
-    "key.categories.numismatic_villager_trades": "Create: Нумизматични сделки на селяни",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

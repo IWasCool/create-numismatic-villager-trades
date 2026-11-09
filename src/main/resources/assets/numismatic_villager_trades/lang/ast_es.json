@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Activar comerciu con monedes",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Sustituyir comercios vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Usos máximos del comerciu",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Comercios d'aldeanos",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Comercios d'aldeanos",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Mineru",
-    "gui.numismatic_villager_trades.trades.search": "Buscar oxetos, encantamientos o oficios...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Tolos oficios",
-    "gui.numismatic_villager_trades.trades.empty": "Nun hai intercambios que coincidan",
     "gui.numismatic_villager_trades.trades.job_site": "Puéstu de trabayu del aldeanu (nun se consume)",
-    "key.numismatic_villager_trades.browse_trades": "Esplorar intercambios d'aldeanos",
-    "key.categories.numismatic_villager_trades": "Create: Comerciu numismáticu de aldeanos",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

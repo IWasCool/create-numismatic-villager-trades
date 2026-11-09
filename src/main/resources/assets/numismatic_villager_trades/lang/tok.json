@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "o ken e esun mani",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "o ante e esun nasin open",
     "numismatic_villager_trades.configuration.maxUses": "mute kepeken esun suli",
-    "gui.numismatic_villager_trades.jei.villager_trades": "esun pi jan tomo ma",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "esun pi jan tomo ma",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "jan pi kama jo kiwen",
-    "gui.numismatic_villager_trades.trades.search": "o alasa e ijo e wawa e pali...",
-    "gui.numismatic_villager_trades.trades.all_professions": "pali ale",
-    "gui.numismatic_villager_trades.trades.empty": "esun pi wile sina li lon ala",
     "gui.numismatic_villager_trades.trades.job_site": "ma pali pi jan tomo ma (kepeken li weka ala e ona)",
-    "key.numismatic_villager_trades.browse_trades": "o lukin e esun pi jan tomo ma",
-    "key.categories.numismatic_villager_trades": "Create: esun mani pi jan tomo ma",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -5,7 +5,6 @@ import java.util.List;
 import com.ourcreation.numismaticvillagertrades.CreateNumismaticVillagerTrades;
 import com.ourcreation.numismaticvillagertrades.NumismaticVillagerTrades;
 import com.ourcreation.numismaticvillagertrades.NumismaticVillagerTrades.ProfessionTrades;
-import com.ourcreation.numismaticvillagertrades.client.VillagerTradeBrowser;
 
 import mezz.jei.api.IModPlugin;
 import mezz.jei.api.JeiPlugin;
@@ -13,7 +12,6 @@ import mezz.jei.api.recipe.RecipeType;
 import mezz.jei.api.registration.IRecipeCatalystRegistration;
 import mezz.jei.api.registration.IRecipeCategoryRegistration;
 import mezz.jei.api.registration.IRecipeRegistration;
-import mezz.jei.api.runtime.IJeiRuntime;
 import net.minecraft.client.Minecraft;
 import net.minecraft.core.RegistryAccess;
 import net.minecraft.core.registries.BuiltInRegistries;
@@ -60,24 +58,6 @@ public final class NumismaticVillagerTradesJeiPlugin implements IModPlugin {
                     .map(ItemStack::new)
                     .ifPresent(stack -> registration.addRecipeCatalyst(stack, VILLAGER_TRADES));
         }
-    }
-
-    @Override
-    public void onRuntimeAvailable(IJeiRuntime runtime) {
-        // Keep our category independent of JER: modpack integrations, including
-        // Create: New World Core, can hide JER's villager category at any time.
-        VillagerTradeBrowser.setRecipeViewer(() -> {
-            if (runtime.getRecipeManager().createRecipeLookup(VILLAGER_TRADES).get().findAny().isEmpty()) {
-                return false;
-            }
-            runtime.getRecipesGui().showTypes(List.of(VILLAGER_TRADES));
-            return true;
-        });
-    }
-
-    @Override
-    public void onRuntimeUnavailable() {
-        VillagerTradeBrowser.setRecipeViewer(() -> false);
     }
 
     private static RegistryAccess registryAccess() {

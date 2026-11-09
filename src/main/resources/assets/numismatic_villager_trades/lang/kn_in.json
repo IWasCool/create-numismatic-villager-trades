@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "ನಾಣ್ಯ ವ್ಯಾಪಾರಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "ವ್ಯಾನಿಲ್ಲಾ ವ್ಯಾಪಾರಗಳನ್ನು ಬದಲಿಸಿ",
     "numismatic_villager_trades.configuration.maxUses": "ವ್ಯಾಪಾರದ ಗರಿಷ್ಠ ಬಳಕೆಗಳು",
-    "gui.numismatic_villager_trades.jei.villager_trades": "ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "ಗಣಿಗಾರ",
-    "gui.numismatic_villager_trades.trades.search": "ವಸ್ತುಗಳು, ಮಂತ್ರಗಳು ಅಥವಾ ವೃತ್ತಿಗಳನ್ನು ಹುಡುಕಿ...",
-    "gui.numismatic_villager_trades.trades.all_professions": "ಎಲ್ಲಾ ವೃತ್ತಿಗಳು",
-    "gui.numismatic_villager_trades.trades.empty": "ಹೊಂದುವ ವ್ಯಾಪಾರಗಳಿಲ್ಲ",
     "gui.numismatic_villager_trades.trades.job_site": "ಗ್ರಾಮಸ್ಥರ ಕೆಲಸದ ಸ್ಥಳ (ಬಳಕೆಯಿಂದ ಖಾಲಿಯಾಗುವುದಿಲ್ಲ)",
-    "key.numismatic_villager_trades.browse_trades": "ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
-    "key.categories.numismatic_villager_trades": "Create: ನಾಣ್ಯಶಾಸ್ತ್ರೀಯ ಗ್ರಾಮಸ್ಥರ ವ್ಯಾಪಾರಗಳು",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

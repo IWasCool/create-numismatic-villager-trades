@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Омогући трговине новчићима",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Замени vanilla трговине",
     "numismatic_villager_trades.configuration.maxUses": "Максимална коришћења трговине",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Трговине сељака",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Трговине сељака",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Рудар",
-    "gui.numismatic_villager_trades.trades.search": "Претражи предмете, чини или занимања...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Сва занимања",
-    "gui.numismatic_villager_trades.trades.empty": "Нема одговарајућих трговина",
     "gui.numismatic_villager_trades.trades.job_site": "Радно место сељака (не троши се)",
-    "key.numismatic_villager_trades.browse_trades": "Прегледај трговине сељака",
-    "key.categories.numismatic_villager_trades": "Create: Нумизматичке трговине сељака",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

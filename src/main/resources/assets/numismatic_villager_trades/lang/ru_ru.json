@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Включить сделки за монеты",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Заменить ванильные сделки",
     "numismatic_villager_trades.configuration.maxUses": "Максимум использований сделки",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Сделки жителей",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Сделки жителей",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Шахтёр",
-    "gui.numismatic_villager_trades.trades.search": "Поиск предметов, зачарований или профессий...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Все профессии",
-    "gui.numismatic_villager_trades.trades.empty": "Нет подходящих сделок",
     "gui.numismatic_villager_trades.trades.job_site": "Рабочее место жителя (не расходуется)",
-    "key.numismatic_villager_trades.browse_trades": "Просмотр сделок жителей",
-    "key.categories.numismatic_villager_trades": "Create: Нумизматические сделки жителей",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

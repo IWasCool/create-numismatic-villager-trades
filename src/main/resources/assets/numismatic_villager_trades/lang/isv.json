@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Vključiti trgovje s monetami",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Zaměniti vanilla trgovje",
     "numismatic_villager_trades.configuration.maxUses": "Največše upotrěbenja trgovje",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Trgovje seljanov",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Trgovje seljanov",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Rudar",
-    "gui.numismatic_villager_trades.trades.search": "Iskati predměty, začarovanja ili profesije...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Vse profesije",
-    "gui.numismatic_villager_trades.trades.empty": "Nema odgovarjajučih trgovov",
     "gui.numismatic_villager_trades.trades.job_site": "Raboče město seljanina (ne potrěbjaje se)",
-    "key.numismatic_villager_trades.browse_trades": "Pregleděti trgovje seljanov",
-    "key.categories.numismatic_villager_trades": "Create: Numizmatične trgovje seljanov",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

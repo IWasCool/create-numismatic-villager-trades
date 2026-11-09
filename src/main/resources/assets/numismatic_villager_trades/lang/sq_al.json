@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Aktivizo tregtitë me monedha",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Zëvendëso tregtitë vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Përdorimet maksimale të tregtisë",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Tregtitë e fshatarëve",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Tregtitë e fshatarëve",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Minator",
-    "gui.numismatic_villager_trades.trades.search": "Kërko sende, magjepsje ose profesione...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Të gjitha profesionet",
-    "gui.numismatic_villager_trades.trades.empty": "Nuk ka tregti që përputhen",
     "gui.numismatic_villager_trades.trades.job_site": "Vendi i punës së fshatarit (nuk konsumohet)",
-    "key.numismatic_villager_trades.browse_trades": "Shfleto tregtitë e fshatarëve",
-    "key.categories.numismatic_villager_trades": "Create: Tregti numizmatike të fshatarëve",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Hoʻā i nā kālepa kālā",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Hoʻololi i nā kālepa vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Nā hoʻohana kiʻekiʻe o ke kālepa",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Nā kālepa kamaʻāina kauhale",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Nā kālepa kamaʻāina kauhale",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Mea ʻeli maina",
-    "gui.numismatic_villager_trades.trades.search": "Huli i nā mea, nā hoʻokalakupua, a i ʻole nā ʻoihana...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Nā ʻoihana a pau",
-    "gui.numismatic_villager_trades.trades.empty": "ʻAʻohe kālepa kūlike",
     "gui.numismatic_villager_trades.trades.job_site": "Kahi hana o ke kamaʻāina kauhale (ʻaʻole pau i ka hoʻohana)",
-    "key.numismatic_villager_trades.browse_trades": "Nānā i nā kālepa kamaʻāina kauhale",
-    "key.categories.numismatic_villager_trades": "Create: Nā kālepa kālā a nā kamaʻāina kauhale",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "فعال‌کردن معامله‌های سکه",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "جایگزینی معامله‌های وانیلا",
     "numismatic_villager_trades.configuration.maxUses": "بیشترین استفاده‌های معامله",
-    "gui.numismatic_villager_trades.jei.villager_trades": "معامله‌های روستاییان",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "معامله‌های روستاییان",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "معدنچی",
-    "gui.numismatic_villager_trades.trades.search": "جستجوی آیتم‌ها، افسون‌ها یا حرفه‌ها...",
-    "gui.numismatic_villager_trades.trades.all_professions": "همهٔ حرفه‌ها",
-    "gui.numismatic_villager_trades.trades.empty": "هیچ معاملهٔ منطبقی پیدا نشد",
     "gui.numismatic_villager_trades.trades.job_site": "محل کار روستایی (مصرف نمی‌شود)",
-    "key.numismatic_villager_trades.browse_trades": "مرور معامله‌های روستاییان",
-    "key.categories.numismatic_villager_trades": "Create: معامله‌های سکه‌شناسی روستاییان",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

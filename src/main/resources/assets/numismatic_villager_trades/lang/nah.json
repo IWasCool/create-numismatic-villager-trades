@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Xicchihua tomin tlanamacaliztli",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Xicpatla vanilla tlanamacaliztli",
     "numismatic_villager_trades.configuration.maxUses": "Tlanamacaliztli huel miec tlachihualiztli",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Altepetlacatl tlanamacaliztli",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Altepetlacatl tlanamacaliztli",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Oztomecatl",
-    "gui.numismatic_villager_trades.trades.search": "Search items, enchantments, or professions...",
-    "gui.numismatic_villager_trades.trades.all_professions": "All Professions",
-    "gui.numismatic_villager_trades.trades.empty": "No matching trades",
     "gui.numismatic_villager_trades.trades.job_site": "Villager job site (not consumed)",
-    "key.numismatic_villager_trades.browse_trades": "Browse Villager Trades",
-    "key.categories.numismatic_villager_trades": "Create: Tomintiliztli altepetlacatl tlanamacaliztli",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

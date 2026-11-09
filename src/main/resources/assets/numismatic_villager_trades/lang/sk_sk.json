@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Povoliť obchody s mincami",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Nahradiť vanilla obchody",
     "numismatic_villager_trades.configuration.maxUses": "Maximálny počet použití obchodu",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Obchody dedinčanov",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Obchody dedinčanov",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Baník",
-    "gui.numismatic_villager_trades.trades.search": "Hľadať predmety, očarovania alebo povolania...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Všetky povolania",
-    "gui.numismatic_villager_trades.trades.empty": "Žiadne zodpovedajúce obchody",
     "gui.numismatic_villager_trades.trades.job_site": "Pracovisko dedinčana (nespotrebúva sa)",
-    "key.numismatic_villager_trades.browse_trades": "Prehliadať obchody dedinčanov",
-    "key.categories.numismatic_villager_trades": "Create: Numizmatické obchody dedinčanov",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

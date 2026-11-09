@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Тыйын соодаларын иштетүү",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla соодаларын алмаштыруу",
     "numismatic_villager_trades.configuration.maxUses": "Сооданын эң көп колдонулушу",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Айыл тургуну соодалары",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Айыл тургуну соодалары",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Кенчи",
-    "gui.numismatic_villager_trades.trades.search": "Буюмдарды, сыйкырларды же кесиптерди издөө...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Бардык кесиптер",
-    "gui.numismatic_villager_trades.trades.empty": "Туура келген соода жок",
     "gui.numismatic_villager_trades.trades.job_site": "Айыл тургунунун жумуш орду (сарпталбайт)",
-    "key.numismatic_villager_trades.browse_trades": "Айыл тургундарынын соодасын көрүү",
-    "key.categories.numismatic_villager_trades": "Create: Нумизматикалык айыл тургуну соодалары",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

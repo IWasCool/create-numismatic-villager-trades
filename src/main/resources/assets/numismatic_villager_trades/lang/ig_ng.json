@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Kwado ahịa mkpụrụ ego",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Dochie ahịa vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Ojiji ahịa kacha elu",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Ahịa ndị obodo",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Ahịa ndị obodo",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Onye na-egwu ala",
-    "gui.numismatic_villager_trades.trades.search": "Chọọ ihe, anwansi, ma ọ bụ ọrụ...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Ọrụ niile",
-    "gui.numismatic_villager_trades.trades.empty": "Enweghị azụmahịa dabara",
     "gui.numismatic_villager_trades.trades.job_site": "Ebe ọrụ onye obodo (anaghị agwụ n'iji ya)",
-    "key.numismatic_villager_trades.browse_trades": "Lelee azụmahịa ndị obodo",
-    "key.categories.numismatic_villager_trades": "Create: Ahịa ego ndị obodo",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

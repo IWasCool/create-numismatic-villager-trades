@@ -8,7 +8,7 @@ import org.joml.Vector3f;
 
 import com.ourcreation.numismaticvillagertrades.CreateNumismaticVillagerTrades;
 import com.ourcreation.numismaticvillagertrades.NumismaticVillagerTrades.ProfessionTrades;
-import com.ourcreation.numismaticvillagertrades.client.VillagerTradeBrowser;
+import com.ourcreation.numismaticvillagertrades.client.viewer.TradeViewerPresentation;
 import com.ourcreation.numismaticvillagertrades.client.jei.VillagerTradeListWidget.TradeRow;
 import com.ourcreation.numismaticvillagertrades.compat.VillagerPreviewFactory;
 
@@ -54,7 +54,7 @@ public final class NumismaticVillagerTradeCategory implements IRecipeCategory<Pr
 
     @Override
     public Component getTitle() {
-        return Component.translatable(VillagerTradeBrowser.TITLE_KEY);
+        return Component.translatable(TradeViewerPresentation.TITLE_KEY);
     }
 
     @Override
@@ -83,7 +83,7 @@ public final class NumismaticVillagerTradeCategory implements IRecipeCategory<Pr
         builder.addInputSlot(25, 122).setBackground(slot, -1, -1)
                 .addRichTooltipCallback((view, tooltip) -> tooltip.add(Component.translatable(
                         "gui." + CreateNumismaticVillagerTrades.MODID + ".trades.job_site")))
-                .addItemStacks(VillagerTradeBrowser.jobSites(recipe.professionId()));
+                .addItemStacks(TradeViewerPresentation.jobSites(recipe.professionId()));
 
         // Register every trade with JEI, including rows that start outside the viewport.
         // The slotted widget owns drawing and hit-testing, so hidden rows stay searchable.
@@ -126,7 +126,7 @@ public final class NumismaticVillagerTradeCategory implements IRecipeCategory<Pr
             GuiGraphics guiGraphics, double mouseX, double mouseY) {
         var font = Minecraft.getInstance().font;
         String profession = font.plainSubstrByWidth(
-                VillagerTradeBrowser.professionName(recipe.professionId()).getString(), WIDTH - 8);
+                TradeViewerPresentation.professionName(recipe.professionId()).getString(), WIDTH - 8);
         guiGraphics.drawString(font, profession, (WIDTH - font.width(profession)) / 2, 4, 0xFF404040, false);
         guiGraphics.fill(67, 20, 68, 140, 0x40555555);
     }

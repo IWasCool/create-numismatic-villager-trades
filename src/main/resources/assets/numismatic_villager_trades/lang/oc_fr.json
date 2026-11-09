@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Activar los escambis amb monedas",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Remplaçar los escambis vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Usatges maxims de l'escambi",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Escambis dels vilatgeses",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Escambis dels vilatgeses",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Minier",
-    "gui.numismatic_villager_trades.trades.search": "Cercar d'objèctes, d'encantaments o de professions...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Totas las professions",
-    "gui.numismatic_villager_trades.trades.empty": "Cap d'escambi correspondent",
     "gui.numismatic_villager_trades.trades.job_site": "Lòc de trabalh del vilatgés (es pas consumit)",
-    "key.numismatic_villager_trades.browse_trades": "Percórrer los escambis dels vilatgeses",
-    "key.categories.numismatic_villager_trades": "Create: Escambis numismatics dels vilatgeses",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

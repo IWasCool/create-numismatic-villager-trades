@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Bật giao dịch bằng xu",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Thay thế giao dịch vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Số lần dùng giao dịch tối đa",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Giao dịch dân làng",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Giao dịch dân làng",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Thợ mỏ",
-    "gui.numismatic_villager_trades.trades.search": "Tìm vật phẩm, phù phép hoặc nghề nghiệp...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Tất cả nghề nghiệp",
-    "gui.numismatic_villager_trades.trades.empty": "Không có giao dịch phù hợp",
     "gui.numismatic_villager_trades.trades.job_site": "Khối nghề nghiệp của dân làng (không bị tiêu hao)",
-    "key.numismatic_villager_trades.browse_trades": "Duyệt giao dịch dân làng",
-    "key.categories.numismatic_villager_trades": "Create: Giao dịch tiền cổ của dân làng",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

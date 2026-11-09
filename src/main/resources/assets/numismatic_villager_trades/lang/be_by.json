@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Уключыць гандаль манетамі",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Замяніць стандартныя гандлі",
     "numismatic_villager_trades.configuration.maxUses": "Максімум выкарыстанняў гандлю",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Гандлі вяскоўцаў",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Гандлі вяскоўцаў",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Шахцёр",
-    "gui.numismatic_villager_trades.trades.search": "Пошук прадметаў, чараў або прафесій...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Усе прафесіі",
-    "gui.numismatic_villager_trades.trades.empty": "Няма адпаведных здзелак",
     "gui.numismatic_villager_trades.trades.job_site": "Працоўнае месца вяскоўца (не расходуецца)",
-    "key.numismatic_villager_trades.browse_trades": "Прагляд здзелак вяскоўцаў",
-    "key.categories.numismatic_villager_trades": "Create: Нумізматычныя гандлі вяскоўцаў",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

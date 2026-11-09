@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Aktivigar monet-komerci",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Remplasar vanilla-komerci",
     "numismatic_villager_trades.configuration.maxUses": "Maxima uzi di komerco",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Komerci di vilajani",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Komerci di vilajani",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Ministo",
-    "gui.numismatic_villager_trades.trades.search": "Serchez objekti, sorci o profesionoi...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Omna profesionoi",
-    "gui.numismatic_villager_trades.trades.empty": "Nula konvenanta komerco",
     "gui.numismatic_villager_trades.trades.job_site": "Laborloko di vilajano (ne konsumesas)",
-    "key.numismatic_villager_trades.browse_trades": "Explorerez komerci di vilajani",
-    "key.categories.numismatic_villager_trades": "Create: Numismatika komerci di vilajani",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

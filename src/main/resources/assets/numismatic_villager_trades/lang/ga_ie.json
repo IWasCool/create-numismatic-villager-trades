@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Cumasaigh trádálacha bonn",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Cuir trádálacha vanilla in ionad",
     "numismatic_villager_trades.configuration.maxUses": "Uasúsáidí trádála",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Trádálacha sráidbhailteoirí",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Trádálacha sráidbhailteoirí",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Mianadóir",
-    "gui.numismatic_villager_trades.trades.search": "Cuardaigh míreanna, draíochtaí nó gairmeacha...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Gach gairm",
-    "gui.numismatic_villager_trades.trades.empty": "Níl aon trádáil mheaitseála ann",
     "gui.numismatic_villager_trades.trades.job_site": "Ionad oibre an tsráidbhaileora (ní ídítear é)",
-    "key.numismatic_villager_trades.browse_trades": "Brabhsáil trádálacha sráidbhailteoirí",
-    "key.categories.numismatic_villager_trades": "Create: Trádálacha uimhismatacha sráidbhailteoirí",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Activa commercia nummorum",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Repone commercia vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Usus maximi commercii",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Commercia vicanorum",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Commercia vicanorum",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Fossor",
-    "gui.numismatic_villager_trades.trades.search": "Quaere res, incantationes aut professiones...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Omnes professiones",
-    "gui.numismatic_villager_trades.trades.empty": "Nulla commercia congruentia",
     "gui.numismatic_villager_trades.trades.job_site": "Locus laboris vicani (non consumitur)",
-    "key.numismatic_villager_trades.browse_trades": "Commercia vicanorum inspicere",
-    "key.categories.numismatic_villager_trades": "Create: Commercia numismatica vicani",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

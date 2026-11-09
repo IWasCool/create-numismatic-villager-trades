@@ -39,6 +39,21 @@ repositories {
         url = 'https://api.modrinth.com/maven'
         content { includeGroup 'maven.modrinth' }
     }
+    maven {
+        name = 'EMI'
+        url = 'https://maven.terraformersmc.com/releases'
+        content { includeGroup 'dev.emi' }
+    }
+    maven {
+        name = 'Shedaniel'
+        url = 'https://maven.shedaniel.me'
+        content { includeGroupByRegex 'me\\.shedaniel.*' }
+    }
+    maven {
+        name = 'Architectury'
+        url = 'https://maven.architectury.dev'
+        content { includeGroup 'dev.architectury' }
+    }
 }
 
 base {
@@ -47,6 +62,33 @@ base {
 
 def testVillagersReborn = providers.gradleProperty('testVillagersReborn').map { it.toBoolean() }.getOrElse(false)
 def testVillagerPreviews = providers.gradleProperty('testVillagerPreviews').map { it.toBoolean() }.getOrElse(false)
+def recipeViewer = providers.gradleProperty('recipeViewer').getOrElse('jei')
+def viewerSmokeTest = providers.gradleProperty('viewerSmokeTest').map { it.toBoolean() }.getOrElse(false)
+def viewerDebug = providers.gradleProperty('viewerDebug').map { it.toBoolean() }.getOrElse(false)
+if (!(recipeViewer in ['none', 'jei', 'emi', 'rei', 'jei-emi'])) {
+    throw new GradleException('recipeViewer must be none, jei, emi, rei, or jei-emi')
+}
+
+if (viewerSmokeTest) {
+    sourceSets.create('viewerTest') {
+        compileClasspath += sourceSets.main.output + sourceSets.main.compileClasspath
+        runtimeClasspath += sourceSets.main.output + configurations.runtimeClasspath
+    }
+    def fixtureWorld = layout.buildDirectory.dir('gametest-vanilla/world').get().asFile
+    def clientDirectory = layout.buildDirectory.dir("viewer-test-${recipeViewer}").get().asFile
+    tasks.register('prepareViewerTestWorld', Sync) {
+        from fixtureWorld
+        into new File(clientDirectory, 'saves/ViewerCompat')
+        exclude 'session.lock'
+        doFirst {
+            if (!new File(fixtureWorld, 'level.dat').isFile()) {
+                throw new GradleException('Run runGameTestServer -PtestVillagerPreviews=true first to create the isolated test world.')
+            }
+            clientDirectory.mkdirs()
+            new File(clientDirectory, 'options.txt').setText('pauseOnLostFocus:false\nguiScale:2\nsoundCategory_master:0.0\n', 'UTF-8')
+        }
+    }
+}
 
 // Mojang ships Java 21 to end users in 1.21.1, so mods should target Java 21.
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
@@ -66,8 +108,22 @@ neoForge {
     // Default run configurations.
     // These can be tweaked, removed, or duplicated as needed.
     runs {
+        if (viewerSmokeTest) {
+            viewerTestClient {
+                client()
+                sourceSet = sourceSets.viewerTest
+                gameDirectory = layout.buildDirectory.dir("viewer-test-${recipeViewer}")
+                systemProperty 'numismatic.viewerTest.profile', recipeViewer
+                programArguments.addAll '--quickPlaySingleplayer', 'ViewerCompat', '--width', '960', '--height', '640'
+                taskBefore tasks.named('prepareViewerTestWorld')
+                if (viewerDebug) jvmArguments.add '-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=127.0.0.1:5005'
+            }
+        }
         client {
             client()
+            if (providers.gradleProperty('recipeViewer').isPresent()) {
+                gameDirectory = layout.buildDirectory.dir("viewer-${recipeViewer}")
+            }
             // Comma-separated list of namespaces to load gametests from. Empty = all namespaces.
             systemProperty 'neoforge.enabledGameTestNamespaces', project.mod_id
         }
@@ -107,7 +163,7 @@ neoForge {
             // "REGISTRIES": For firing of registry events.
             // "REGISTRYDUMP": For getting the contents of all registries.
             systemProperty 'forge.logging.markers', 'REGISTRIES'
-            systemProperty 'log4j2.configurationFile', file('build/moddev/clientLog4j2.xml').toURI().toString()
+            systemProperty 'log4j2.configurationFile', file("build/moddev/${name}Log4j2.xml").toURI().toString()
 
             // Recommended logging level for the console
             // You can set various levels here.
@@ -125,6 +181,11 @@ neoForge {
             sourceSet(sourceSets.main)
             if (testVillagerPreviews) {
                 sourceSet(sourceSets.test)
+            }
+        }
+        if (viewerSmokeTest) {
+            numismatic_viewer_tests {
+                sourceSet(sourceSets.viewerTest)
             }
         }
     }
@@ -167,9 +228,21 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
     compileOnly "mezz.jei:jei-${minecraft_version}-common-api:${jei_version}"
     compileOnly "mezz.jei:jei-${minecraft_version}-neoforge-api:${jei_version}"
+    compileOnly "dev.emi:emi-neoforge:${emi_version}:api"
+    compileOnly "me.shedaniel:RoughlyEnoughItems-api-neoforge:${rei_version}"
     localRuntime "maven.modrinth:create:${create_version}"
     localRuntime "maven.modrinth:numismatics:${numismatics_version}"
-    localRuntime "mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}"
+    if (recipeViewer in ['jei', 'jei-emi']) {
+        localRuntime "mezz.jei:jei-${minecraft_version}-neoforge:${jei_version}"
+    }
+    if (recipeViewer in ['emi', 'jei-emi']) {
+        localRuntime "dev.emi:emi-neoforge:${emi_version}"
+    }
+    if (recipeViewer == 'rei') {
+        localRuntime "maven.modrinth:rei:${rei_version}+neoforge"
+        localRuntime "maven.modrinth:architectury-api:13.0.11+neoforge"
+        localRuntime "maven.modrinth:cloth-config:15.0.140+neoforge"
+    }
     testImplementation 'org.junit.jupiter:junit-jupiter:5.11.4'
     testImplementation "net.neoforged:testframework:${neo_version}"
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'

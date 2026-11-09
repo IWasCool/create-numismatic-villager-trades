@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Münzhandl eischaltn",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla-Handl ersetzn",
     "numismatic_villager_trades.configuration.maxUses": "Maximale Handlsnutzungen",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Dorfbewohner-Handl",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Dorfbewohner-Handl",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Bergmo",
-    "gui.numismatic_villager_trades.trades.search": "Nach Gegenständen, Verzauberungen oder Berufen suchen...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Alle Berufe",
-    "gui.numismatic_villager_trades.trades.empty": "Keine passenden Handelsangebote",
     "gui.numismatic_villager_trades.trades.job_site": "Arbeitsplatz eines Dorfbewohners (wird nicht verbraucht)",
-    "key.numismatic_villager_trades.browse_trades": "Dorfbewohner-Handel durchsuchen",
-    "key.categories.numismatic_villager_trades": "Create: Numismatische Dorfbewohner-Handl",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

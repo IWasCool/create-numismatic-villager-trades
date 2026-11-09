@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Uklučyć handel manietami",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Zamianić standartnyja handli",
     "numismatic_villager_trades.configuration.maxUses": "Maksimum vykarystańniaŭ handlu",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Handli viaskoŭcaŭ",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Handli viaskoŭcaŭ",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Šachcior",
-    "gui.numismatic_villager_trades.trades.search": "Pošuk pradmetaŭ, čaraŭ abo prafiesij...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Usie prafiesii",
-    "gui.numismatic_villager_trades.trades.empty": "Niama adpaviednych zdzielak",
     "gui.numismatic_villager_trades.trades.job_site": "Pracoŭnaje miesca viaskoŭca (nie raschodujecca)",
-    "key.numismatic_villager_trades.browse_trades": "Prahliad zdzielak viaskoŭcaŭ",
-    "key.categories.numismatic_villager_trades": "Create: Numizmatyčnyja handli viaskoŭcaŭ",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

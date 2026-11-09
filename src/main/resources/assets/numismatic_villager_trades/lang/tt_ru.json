@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Акча сәүдәләрен кабызу",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla сәүдәләрен алыштыру",
     "numismatic_villager_trades.configuration.maxUses": "Сәүдәнең иң күп кулланылышы",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Авыл кешесе сәүдәләре",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Авыл кешесе сәүдәләре",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Шахтер",
-    "gui.numismatic_villager_trades.trades.search": "Әйберләр, сихерләр яки һөнәрләр эзләү...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Барлык һөнәрләр",
-    "gui.numismatic_villager_trades.trades.empty": "Туры килгән сәүдә юк",
     "gui.numismatic_villager_trades.trades.job_site": "Авыл кешесенең эш урыны (сарыф ителми)",
-    "key.numismatic_villager_trades.browse_trades": "Авыл кешеләре сәүдәсен карау",
-    "key.categories.numismatic_villager_trades": "Create: Нумизматик авыл кешесе сәүдәләре",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

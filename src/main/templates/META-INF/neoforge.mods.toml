@@ -97,8 +97,32 @@ config="${mod_id}.mixins.json"
 [[dependencies.${mod_id}]]
     modId="slimpatch"
     type="optional"
-    reason="Use Villagers Reborn human NPC models and skin themes in JEI previews."
+    reason="Use Villagers Reborn human NPC models and skin themes in recipe-viewer previews."
     versionRange="[1.0.9,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="jei"
+    type="optional"
+    reason="Browse profession trades in Just Enough Items."
+    versionRange="[19.53.0,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="emi"
+    type="optional"
+    reason="Browse profession trades in EMI using the native integration."
+    versionRange="[1.1.24,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="roughlyenoughitems"
+    type="optional"
+    reason="Browse profession trades in Roughly Enough Items using the native integration."
+    versionRange="[16.0.799,)"
     ordering="AFTER"
     side="CLIENT"
 

@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+[[mods]]
+modId="numismatic_viewer_tests"
+version="1.0.0"
+displayName="Numismatic Viewer Integration Tests"
+[[dependencies.numismatic_viewer_tests]]
+modId="numismatic_villager_trades"
+type="required"
+versionRange="[1.0.0,)"
+ordering="AFTER"
+side="CLIENT"

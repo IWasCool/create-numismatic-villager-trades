@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Aktiver mynthandlar",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Erstatt vanilla-handlar",
     "numismatic_villager_trades.configuration.maxUses": "Maksimale handelsbruk",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Landsbybuarhandlar",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Landsbybuarhandlar",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Gruvearbeidar",
-    "gui.numismatic_villager_trades.trades.search": "Søk etter gjenstandar, fortryllingar eller yrke...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Alle yrke",
-    "gui.numismatic_villager_trades.trades.empty": "Ingen samsvarande handlar",
     "gui.numismatic_villager_trades.trades.job_site": "Arbeidsstaden til landsbybuaren (vert ikkje brukt opp)",
-    "key.numismatic_villager_trades.browse_trades": "Bla gjennom landsbybuarhandlar",
-    "key.categories.numismatic_villager_trades": "Create: Numismatiske landsbybuarhandlar",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

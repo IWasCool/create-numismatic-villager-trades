@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "მონეტებით ვაჭრობის ჩართვა",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "ვანილის ვაჭრობის ჩანაცვლება",
     "numismatic_villager_trades.configuration.maxUses": "ვაჭრობის მაქსიმალური გამოყენებები",
-    "gui.numismatic_villager_trades.jei.villager_trades": "სოფლის მცხოვრებლის ვაჭრობა",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "სოფლის მცხოვრებლის ვაჭრობა",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "მაღაროელი",
-    "gui.numismatic_villager_trades.trades.search": "მოძებნეთ ნივთები, მოჯადოებები ან პროფესიები...",
-    "gui.numismatic_villager_trades.trades.all_professions": "ყველა პროფესია",
-    "gui.numismatic_villager_trades.trades.empty": "შესაბამისი გარიგებები არ არის",
     "gui.numismatic_villager_trades.trades.job_site": "სოფლის მცხოვრების სამუშაო ადგილი (არ იხარჯება)",
-    "key.numismatic_villager_trades.browse_trades": "სოფლის მცხოვრებთა გარიგებების ნახვა",
-    "key.categories.numismatic_villager_trades": "Create: ნუმიზმატიკური სოფლის მცხოვრებლის ვაჭრობა",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

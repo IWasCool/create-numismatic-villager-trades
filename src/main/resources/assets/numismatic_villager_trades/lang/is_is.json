@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Virkja myntviðskipti",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Skipta út vanilla-viðskiptum",
     "numismatic_villager_trades.configuration.maxUses": "Hámarksnotkun viðskipta",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Viðskipti þorpsbúa",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Viðskipti þorpsbúa",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Námumaður",
-    "gui.numismatic_villager_trades.trades.search": "Leita að hlutum, göldrum eða starfsgreinum...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Allar starfsgreinar",
-    "gui.numismatic_villager_trades.trades.empty": "Engin samsvarandi viðskipti",
     "gui.numismatic_villager_trades.trades.job_site": "Vinnustaður þorpsbúa (eyðist ekki)",
-    "key.numismatic_villager_trades.browse_trades": "Skoða viðskipti þorpsbúa",
-    "key.categories.numismatic_villager_trades": "Create: Myntfræðileg viðskipti þorpsbúa",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

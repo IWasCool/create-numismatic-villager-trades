@@ -5,14 +5,8 @@
     "numismatic_villager_trades.configuration.enableCoinTrades": "Jeki ìṣòwò owó ṣiṣẹ",
     "numismatic_villager_trades.configuration.replaceVanillaTrades": "Rọ́pò ìṣòwò vanilla",
     "numismatic_villager_trades.configuration.maxUses": "Ìlò ìṣòwò tó pọ̀jù",
-    "gui.numismatic_villager_trades.jei.villager_trades": "Ìṣòwò àwọn ará abúlé",
+    "gui.numismatic_villager_trades.viewer.villager_trades": "Ìṣòwò àwọn ará abúlé",
     "entity.minecraft.villager.numismatic_villager_trades.miner": "Olùwakùsà",
-    "gui.numismatic_villager_trades.trades.search": "Wa àwọn ohun èlò, àṣírí idan tàbí iṣẹ́...",
-    "gui.numismatic_villager_trades.trades.all_professions": "Gbogbo iṣẹ́",
-    "gui.numismatic_villager_trades.trades.empty": "Kò sí ìṣòwò tó bá mu",
     "gui.numismatic_villager_trades.trades.job_site": "Ibi iṣẹ́ ará abúlé (kì í tán nígbà lílò)",
-    "key.numismatic_villager_trades.browse_trades": "Wo ìṣòwò àwọn ará abúlé",
-    "key.categories.numismatic_villager_trades": "Create: Ìṣòwò owó ìrántí àwọn ará abúlé",
-    "gui.numismatic_villager_trades.trades.page": "%s / %s",
     "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }
