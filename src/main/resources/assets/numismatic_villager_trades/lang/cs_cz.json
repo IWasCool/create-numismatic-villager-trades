@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatické obchody vesničanů",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatické obchody vesničanů",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatické obchody vesničanů",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Povolit obchody s mincemi",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Nahradit vanilla obchody",
-    "numismatic_villager_trades.configuration.maxUses":  "Maximální počet použití obchodu",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Obchody vesničanů",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Horník"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatické obchody vesničanů",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatické obchody vesničanů",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatické obchody vesničanů",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Povolit obchody s mincemi",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Nahradit vanilla obchody",
+    "numismatic_villager_trades.configuration.maxUses": "Maximální počet použití obchodu",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Obchody vesničanů",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Horník",
+    "gui.numismatic_villager_trades.trades.search": "Hledat předměty, očarování nebo povolání...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Všechna povolání",
+    "gui.numismatic_villager_trades.trades.empty": "Žádné odpovídající obchody",
+    "gui.numismatic_villager_trades.trades.job_site": "Pracoviště vesničana (nespotřebovává se)",
+    "key.numismatic_villager_trades.browse_trades": "Procházet obchody vesničanů",
+    "key.categories.numismatic_villager_trades": "Create: Numismatické obchody vesničanů",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

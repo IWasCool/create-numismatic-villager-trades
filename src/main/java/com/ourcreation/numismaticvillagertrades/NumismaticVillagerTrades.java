@@ -132,6 +132,8 @@ public final class NumismaticVillagerTrades {
             }
         }
 
+        // Use one stable price order for villagers, the browser, and recipe viewers.
+        offers.sort(Comparator.comparingInt(offer -> tradePrice(offer.getBaseCostA())));
         return offers;
     }
 
@@ -171,15 +173,13 @@ public final class NumismaticVillagerTrades {
             byProfession.computeIfAbsent(display.professionId(), ignored -> new ArrayList<>()).add(display);
         }
         return byProfession.entrySet().stream()
-                .map(entry -> new ProfessionTrades(entry.getKey(), entry.getValue().stream()
-                        .sorted(Comparator.comparingInt(NumismaticVillagerTrades::tradePrice))
-                        .toList()))
+                .map(entry -> new ProfessionTrades(entry.getKey(), entry.getValue()))
                 .toList();
     }
 
-    private static int tradePrice(TradeDisplay trade) {
-        String coin = BuiltInRegistries.ITEM.getKey(trade.costA().getItem()).toString();
-        return COIN_VALUES.get(coin) * trade.costA().getCount();
+    private static int tradePrice(ItemStack cost) {
+        String coin = BuiltInRegistries.ITEM.getKey(cost.getItem()).toString();
+        return COIN_VALUES.get(coin) * cost.getCount();
     }
 
     private static List<MerchantOffer> createOffers(TradeSpec spec, RegistryAccess registryAccess, RandomSource random) {

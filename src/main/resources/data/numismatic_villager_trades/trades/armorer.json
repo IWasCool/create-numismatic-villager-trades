@@ -9,151 +9,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 4
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:netherite_helmet"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 4
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:netherite_chestplate"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 4
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:netherite_leggings"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 4
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:netherite_boots"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:diamond_helmet"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:diamond_chestplate"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:diamond_leggings"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:diamond_boots"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:netherite_upgrade_smithing_template"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -163,13 +19,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:golden_helmet"
+                "name": "minecraft:leather_helmet"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -179,13 +35,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:golden_chestplate"
+                "name": "minecraft:leather_chestplate"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -195,13 +51,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:golden_leggings"
+                "name": "minecraft:leather_leggings"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -211,13 +67,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:golden_boots"
+                "name": "minecraft:leather_boots"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -227,13 +83,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:spire_armor_trim_smithing_template"
+                "name": "minecraft:host_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -243,13 +99,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:flow_armor_trim_smithing_template"
+                "name": "minecraft:shaper_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -259,13 +115,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:eye_armor_trim_smithing_template"
+                "name": "minecraft:raiser_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -275,23 +131,135 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:dune_armor_trim_smithing_template"
+                "name": "minecraft:wayfinder_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:bevel",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 1
+                    "count": 3
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:tide_armor_trim_smithing_template"
+                "name": "minecraft:chainmail_helmet"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:chainmail_chestplate"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:chainmail_leggings"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:chainmail_boots"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:vex_armor_trim_smithing_template"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:ward_armor_trim_smithing_template"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:sentry_armor_trim_smithing_template"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:snout_armor_trim_smithing_template"
               }
             },
             {
@@ -441,135 +409,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:chainmail_helmet"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:chainmail_chestplate"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:chainmail_leggings"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:chainmail_boots"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:vex_armor_trim_smithing_template"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:ward_armor_trim_smithing_template"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:sentry_armor_trim_smithing_template"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:snout_armor_trim_smithing_template"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -579,13 +419,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:leather_helmet"
+                "name": "minecraft:golden_helmet"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -595,13 +435,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:leather_chestplate"
+                "name": "minecraft:golden_chestplate"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -611,13 +451,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:leather_leggings"
+                "name": "minecraft:golden_leggings"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -627,13 +467,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:leather_boots"
+                "name": "minecraft:golden_boots"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -643,13 +483,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:host_armor_trim_smithing_template"
+                "name": "minecraft:spire_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -659,13 +499,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:shaper_armor_trim_smithing_template"
+                "name": "minecraft:flow_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -675,13 +515,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:raiser_armor_trim_smithing_template"
+                "name": "minecraft:eye_armor_trim_smithing_template"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -691,7 +531,167 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:wayfinder_armor_trim_smithing_template"
+                "name": "minecraft:dune_armor_trim_smithing_template"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:tide_armor_trim_smithing_template"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:diamond_helmet"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:diamond_chestplate"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:diamond_leggings"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:diamond_boots"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:netherite_upgrade_smithing_template"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:netherite_helmet"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:netherite_chestplate"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:netherite_leggings"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:netherite_boots"
               }
             }
           ]

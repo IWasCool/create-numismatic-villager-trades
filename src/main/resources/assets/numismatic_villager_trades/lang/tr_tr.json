@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Nümismatik köylü ticaretleri",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Nümismatik köylü ticaretleri",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Nümismatik köylü ticaretleri",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Para ticaretlerini etkinleştir",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla ticaretleri değiştir",
-    "numismatic_villager_trades.configuration.maxUses":  "Ticaret azami kullanımı",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Köylü ticaretleri",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Madenci"
+    "numismatic_villager_trades.configuration.title": "Create: Nümismatik köylü ticaretleri",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Nümismatik köylü ticaretleri",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Nümismatik köylü ticaretleri",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Para ticaretlerini etkinleştir",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla ticaretleri değiştir",
+    "numismatic_villager_trades.configuration.maxUses": "Ticaret azami kullanımı",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Köylü ticaretleri",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Madenci",
+    "gui.numismatic_villager_trades.trades.search": "Eşya, büyü veya meslek ara...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Tüm meslekler",
+    "gui.numismatic_villager_trades.trades.empty": "Eşleşen ticaret yok",
+    "gui.numismatic_villager_trades.trades.job_site": "Köylünün iş yeri (tüketilmez)",
+    "key.numismatic_villager_trades.browse_trades": "Köylü ticaretlerine göz at",
+    "key.categories.numismatic_villager_trades": "Create: Nümismatik köylü ticaretleri",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

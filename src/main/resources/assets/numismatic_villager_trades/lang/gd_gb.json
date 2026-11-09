@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Malairtean numismatic luchd-baile",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Malairtean numismatic luchd-baile",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Malairtean numismatic luchd-baile",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Cuir malairtean bhuinn an comas",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Cuir malairtean vanilla nan àite",
-    "numismatic_villager_trades.configuration.maxUses":  "Cleachdaidhean malairt as motha",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Malairtean luchd-baile",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mèinneadair"
+    "numismatic_villager_trades.configuration.title": "Create: Malairtean numismatic luchd-baile",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Malairtean numismatic luchd-baile",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Malairtean numismatic luchd-baile",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Cuir malairtean bhuinn an comas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Cuir malairtean vanilla nan àite",
+    "numismatic_villager_trades.configuration.maxUses": "Cleachdaidhean malairt as motha",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Malairtean luchd-baile",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Mèinneadair",
+    "gui.numismatic_villager_trades.trades.search": "Lorg nithean, draoidheachdan no dreuchdan...",
+    "gui.numismatic_villager_trades.trades.all_professions": "A h-uile dreuchd",
+    "gui.numismatic_villager_trades.trades.empty": "Chan eil malairt a' freagairt ris",
+    "gui.numismatic_villager_trades.trades.job_site": "Àite-obrach neach-baile (cha tèid a chaitheamh)",
+    "key.numismatic_villager_trades.browse_trades": "Rùraich malairtean luchd-baile",
+    "key.categories.numismatic_villager_trades": "Create: Malairtean numismatic luchd-baile",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

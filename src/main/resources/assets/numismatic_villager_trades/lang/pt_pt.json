@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Trocas numismáticas de aldeões",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Trocas numismáticas de aldeões",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Trocas numismáticas de aldeões",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ativar trocas com moedas",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Substituir trocas vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos da troca",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Trocas de aldeões",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mineiro"
+    "numismatic_villager_trades.configuration.title": "Create: Trocas numismáticas de aldeões",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Trocas numismáticas de aldeões",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Trocas numismáticas de aldeões",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Ativar trocas com moedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Substituir trocas vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Usos máximos da troca",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Trocas de aldeões",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Mineiro",
+    "gui.numismatic_villager_trades.trades.search": "Pesquisar itens, encantamentos ou profissões...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Todas as profissões",
+    "gui.numismatic_villager_trades.trades.empty": "Nenhuma troca correspondente",
+    "gui.numismatic_villager_trades.trades.job_site": "Posto de trabalho do aldeão (não é consumido)",
+    "key.numismatic_villager_trades.browse_trades": "Explorar trocas de aldeões",
+    "key.categories.numismatic_villager_trades": "Create: Trocas numismáticas de aldeões",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

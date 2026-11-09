@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Scambi numismatici dei villici",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Scambi numismatici dei villici",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Scambi numismatici dei villici",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Abilita scambi con monete",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Sostituisci scambi vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Utilizzi massimi dello scambio",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Scambi dei villici",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minatore"
+    "numismatic_villager_trades.configuration.title": "Create: Scambi numismatici dei villici",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Scambi numismatici dei villici",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Scambi numismatici dei villici",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Abilita scambi con monete",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Sostituisci scambi vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Utilizzi massimi dello scambio",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Scambi dei villici",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Minatore",
+    "gui.numismatic_villager_trades.trades.search": "Cerca oggetti, incantesimi o professioni...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Tutte le professioni",
+    "gui.numismatic_villager_trades.trades.empty": "Nessuno scambio corrispondente",
+    "gui.numismatic_villager_trades.trades.job_site": "Postazione di lavoro del villico (non consumata)",
+    "key.numismatic_villager_trades.browse_trades": "Sfoglia gli scambi dei villici",
+    "key.categories.numismatic_villager_trades": "Create: Scambi numismatici dei villici",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

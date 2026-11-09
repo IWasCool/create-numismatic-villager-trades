@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numizmatiniai kaimiečių mainai",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatiniai kaimiečių mainai",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatiniai kaimiečių mainai",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Įjungti monetų mainus",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Pakeisti vanilla mainus",
-    "numismatic_villager_trades.configuration.maxUses":  "Didžiausias mainų naudojimų skaičius",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Kaimiečių mainai",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Kasėjas"
+    "numismatic_villager_trades.configuration.title": "Create: Numizmatiniai kaimiečių mainai",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numizmatiniai kaimiečių mainai",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numizmatiniai kaimiečių mainai",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Įjungti monetų mainus",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Pakeisti vanilla mainus",
+    "numismatic_villager_trades.configuration.maxUses": "Didžiausias mainų naudojimų skaičius",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Kaimiečių mainai",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Kasėjas",
+    "gui.numismatic_villager_trades.trades.search": "Ieškoti daiktų, užkeikimų ar profesijų...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Visos profesijos",
+    "gui.numismatic_villager_trades.trades.empty": "Nėra atitinkančių mainų",
+    "gui.numismatic_villager_trades.trades.job_site": "Kaimiečio darbo vieta (nesunaudojama)",
+    "key.numismatic_villager_trades.browse_trades": "Naršyti kaimiečių mainus",
+    "key.categories.numismatic_villager_trades": "Create: Numizmatiniai kaimiečių mainai",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

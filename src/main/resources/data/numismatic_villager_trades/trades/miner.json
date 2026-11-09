@@ -9,7 +9,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:spur",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -19,13 +19,45 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:netherite_scrap"
+                "name": "minecraft:torch"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:flint"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:spur",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 4
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:charcoal"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -35,55 +67,39 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:diamond"
+                "name": "minecraft:coal"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:bevel",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 2
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:raw_gold"
+                "name": "minecraft:raw_copper"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:bevel",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 2
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "create:raw_zinc"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:emerald"
+                "name": "minecraft:lapis_lazuli"
               }
             },
             {
@@ -153,71 +169,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:coal"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:raw_copper"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:lapis_lazuli"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:spur",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 4
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:charcoal"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -227,13 +179,13 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:torch"
+                "name": "minecraft:raw_gold"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -243,7 +195,55 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:flint"
+                "name": "create:raw_zinc"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:emerald"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:diamond"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:netherite_scrap"
               }
             }
           ]

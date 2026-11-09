@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatikos haimabaurgjamangawaurkjos",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatikos haimabaurgjamangawaurkjos",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatikos haimabaurgjamangawaurkjos",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Skattamanga uslukjan",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla-manga afwandjan",
-    "numismatic_villager_trades.configuration.maxUses":  "Maist brukjan manga",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Haimabaurgjamangawaurkjos",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Daljaurkei"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Skattamanga uslukjan",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla-manga afwandjan",
+    "numismatic_villager_trades.configuration.maxUses": "Maist brukjan manga",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Haimabaurgjamangawaurkjos",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Daljaurkei",
+    "gui.numismatic_villager_trades.trades.search": "Search items, enchantments, or professions...",
+    "gui.numismatic_villager_trades.trades.all_professions": "All Professions",
+    "gui.numismatic_villager_trades.trades.empty": "No matching trades",
+    "gui.numismatic_villager_trades.trades.job_site": "Villager job site (not consumed)",
+    "key.numismatic_villager_trades.browse_trades": "Browse Villager Trades",
+    "key.categories.numismatic_villager_trades": "Create: Numismatikos haimabaurgjamangawaurkjos",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

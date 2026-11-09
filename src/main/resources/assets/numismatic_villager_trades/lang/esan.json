@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Tratos numismáticos de aldeanos",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Tratos numismáticos de aldeanos",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Tratos numismáticos de aldeanos",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activâ trato con monedas",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Reemplaçâ tratos vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos der trato",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Tratos de aldeanos",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minero"
+    "numismatic_villager_trades.configuration.title": "Create: Tratos numismáticos de aldeanos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Tratos numismáticos de aldeanos",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Tratos numismáticos de aldeanos",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Activâ trato con monedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Reemplaçâ tratos vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Usos máximos der trato",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Tratos de aldeanos",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Minero",
+    "gui.numismatic_villager_trades.trades.search": "Buscar objetos, encantamientos o profesiones...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Todas las profesiones",
+    "gui.numismatic_villager_trades.trades.empty": "No hay intercambios coincidentes",
+    "gui.numismatic_villager_trades.trades.job_site": "Lugar de trabajo del aldeano (no se consume)",
+    "key.numismatic_villager_trades.browse_trades": "Explorar intercambios de aldeanos",
+    "key.categories.numismatic_villager_trades": "Create: Tratos numismáticos de aldeanos",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

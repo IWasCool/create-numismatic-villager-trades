@@ -2,7 +2,7 @@
 
 A Create: Numismatics addon for **Minecraft 1.21.1 / NeoForge** that turns villagers into coin-based merchants. Buy goods and resources with Numismatics coins across all thirteen vanilla trading professions and the added **Miner** profession.
 
-Version **1.0.0** requires **Java 21**, **NeoForge 21.1.250+**, and **Create: Numismatics** with its Create dependency. The development build uses **Numismatics 1.1.0** and **Create 6.0.10**.
+Version **1.0.0** requires **Java 21**, **NeoForge 21.1.241+**, and **Create: Numismatics** with its Create dependency. The development build uses **Numismatics 1.1.0** and **Create 6.0.10**.
 
 ## Install
 
@@ -16,7 +16,7 @@ Villagers sell items for Numismatics coins instead of buying items from players.
 
 Prices use at most seven coins of one denomination, choosing the largest denomination that represents the exact price. Numismatics exchange rates are unchanged. Finished armor and tools normally cost twice one unit of their main material; the shop discount compared with buying every crafting ingredient is intentional.
 
-Actual villagers and the built-in browser list trades from expensive to cheap. JEI lists each profession from cheap to expensive. Items retain their order within the same price tier.
+Actual villagers, the built-in browser, and JEI all list each profession's trades from cheapest to most expensive by total coin value. Items retain their order within the same price tier. Existing villagers receive the updated order when they load or when you open their trading screen.
 
 ## Trade browser and compatibility
 
@@ -56,6 +56,10 @@ On Linux and macOS:
 ./gradlew build
 ```
 
-Dependencies download automatically; local modpack JARs are not needed. The build runs the existing tests and trade-data validation, and produces `build/libs/numismatic_villager_trades-1.0.0.jar`.
+Dependencies download automatically; local modpack JARs are not needed. The build runs the existing tests, trade-data validation, and translation key/placeholder validation, and produces `build/libs/numismatic_villager_trades-1.0.0.jar`.
+
+## Translations
+
+All 143 locale files include the complete set of 16 UI keys. New browser and keybind labels are localized in 111 non-English locale files; 20 rarer locales use English fallbacks for those new labels. Regional variants share their base language's browser labels where appropriate. Existing translations are retained, and translation corrections are welcome.
 
 Source: [IWasCool/create-numismatic-villager-trades](https://github.com/IWasCool/create-numismatic-villager-trades). Available under the [MIT license](LICENSE). The NeoForge template's original notice is retained in [TEMPLATE_LICENSE.txt](TEMPLATE_LICENSE.txt); both notices are included in the mod JAR.

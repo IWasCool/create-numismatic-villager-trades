@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "நாணய பரிமாற்றங்களை இயக்கு",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla பரிமாற்றங்களை மாற்று",
-    "numismatic_villager_trades.configuration.maxUses":  "பரிமாற்றத்தின் அதிகபட்ச பயன்பாடுகள்",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "கிராமவாசி பரிமாற்றங்கள்",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "சுரங்கத் தொழிலாளர்"
+    "numismatic_villager_trades.configuration.title": "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "நாணய பரிமாற்றங்களை இயக்கு",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla பரிமாற்றங்களை மாற்று",
+    "numismatic_villager_trades.configuration.maxUses": "பரிமாற்றத்தின் அதிகபட்ச பயன்பாடுகள்",
+    "gui.numismatic_villager_trades.jei.villager_trades": "கிராமவாசி பரிமாற்றங்கள்",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "சுரங்கத் தொழிலாளர்",
+    "gui.numismatic_villager_trades.trades.search": "பொருட்கள், மந்திரங்கள் அல்லது தொழில்களைத் தேடுங்கள்...",
+    "gui.numismatic_villager_trades.trades.all_professions": "அனைத்து தொழில்களும்",
+    "gui.numismatic_villager_trades.trades.empty": "பொருந்தும் பரிமாற்றங்கள் இல்லை",
+    "gui.numismatic_villager_trades.trades.job_site": "கிராமவாசியின் பணியிடம் (பயன்பாட்டில் தீராது)",
+    "key.numismatic_villager_trades.browse_trades": "கிராமவாசி பரிமாற்றங்களைப் பார்க்கவும்",
+    "key.categories.numismatic_villager_trades": "Create: நாணயவியல் கிராமவாசி பரிமாற்றங்கள்",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

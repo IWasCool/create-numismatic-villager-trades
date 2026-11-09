@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: 화폐학 주민 거래",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: 화폐학 주민 거래",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: 화폐학 주민 거래",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "동전 거래 활성화",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "바닐라 거래 교체",
-    "numismatic_villager_trades.configuration.maxUses":  "거래 최대 사용 횟수",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "주민 거래",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "광부"
+    "numismatic_villager_trades.configuration.title": "Create: 화폐학 주민 거래",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: 화폐학 주민 거래",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: 화폐학 주민 거래",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "동전 거래 활성화",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "바닐라 거래 교체",
+    "numismatic_villager_trades.configuration.maxUses": "거래 최대 사용 횟수",
+    "gui.numismatic_villager_trades.jei.villager_trades": "주민 거래",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "광부",
+    "gui.numismatic_villager_trades.trades.search": "아이템, 마법 부여 또는 직업 검색...",
+    "gui.numismatic_villager_trades.trades.all_professions": "모든 직업",
+    "gui.numismatic_villager_trades.trades.empty": "일치하는 거래 없음",
+    "gui.numismatic_villager_trades.trades.job_site": "주민 작업대 (소모되지 않음)",
+    "key.numismatic_villager_trades.browse_trades": "주민 거래 둘러보기",
+    "key.categories.numismatic_villager_trades": "Create: 화폐학 주민 거래",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

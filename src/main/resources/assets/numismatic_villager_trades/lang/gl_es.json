@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Intercambios numismáticos de aldeáns",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Intercambios numismáticos de aldeáns",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Intercambios numismáticos de aldeáns",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activar intercambios con moedas",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Substituír intercambios vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Usos máximos do intercambio",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Intercambios de aldeáns",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mineiro"
+    "numismatic_villager_trades.configuration.title": "Create: Intercambios numismáticos de aldeáns",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Intercambios numismáticos de aldeáns",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Intercambios numismáticos de aldeáns",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Activar intercambios con moedas",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Substituír intercambios vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Usos máximos do intercambio",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Intercambios de aldeáns",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Mineiro",
+    "gui.numismatic_villager_trades.trades.search": "Buscar obxectos, encantamentos ou profesións...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Todas as profesións",
+    "gui.numismatic_villager_trades.trades.empty": "Non hai intercambios coincidentes",
+    "gui.numismatic_villager_trades.trades.job_site": "Posto de traballo do aldeán (non se consome)",
+    "key.numismatic_villager_trades.browse_trades": "Explorar intercambios de aldeáns",
+    "key.categories.numismatic_villager_trades": "Create: Intercambios numismáticos de aldeáns",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

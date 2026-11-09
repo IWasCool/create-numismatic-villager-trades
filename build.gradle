@@ -308,8 +308,8 @@ tasks.register('validateTrades') {
                         def denomination = coins.findAll { id, value -> price % value == 0 }.max { it.value }.key
                         if (trade.cost_a.name != denomination)
                             throw new GradleException("Use the largest exact coin denomination: ${label}")
-                        if (previousPrice != null && price > previousPrice)
-                            throw new GradleException("Trades must run from expensive to cheap, preserving equal-price item order: ${label}")
+                        if (previousPrice != null && price < previousPrice)
+                            throw new GradleException("Trades must run from cheap to expensive, preserving equal-price item order: ${label}")
                         previousPrice = price
                         def key = [trade.result.name, enchant ? enchant[0].include[0] : '', enchant ? enchant[0].min_level : 0]
                         if (!seen.add(key)) throw new GradleException("Duplicate offer: ${label}")
@@ -340,8 +340,40 @@ tasks.register('validateTrades') {
     }
 }
 
+tasks.register('validateTranslations') {
+    group = 'verification'
+    description = 'Checks locale key coverage and matching translation placeholders.'
+    def languageFiles = fileTree('src/main/resources/assets/numismatic_villager_trades/lang') {
+        include '*.json'
+    }
+    def englishFile = file('src/main/resources/assets/numismatic_villager_trades/lang/en_us.json')
+    inputs.files(languageFiles)
+    doLast {
+        def parse = { languageFile ->
+            new groovy.json.JsonSlurper().parseText(languageFile.getText('UTF-8').replace('\uFEFF', ''))
+        }
+        def english = parse(englishFile)
+        def placeholders = { text ->
+            (text =~ /(?<!%)%(?:\d+\$)?[sd]/).collect { it[-1] }.sort()
+        }
+        languageFiles.files.each { languageFile ->
+            def translated = parse(languageFile)
+            def missing = english.keySet() - translated.keySet()
+            if (missing) throw new GradleException("Missing translation keys in ${languageFile.name}: ${missing}")
+            english.each { key, value ->
+                if (!(translated[key] instanceof String) || translated[key].isBlank())
+                    throw new GradleException("Empty or invalid translation in ${languageFile.name}: ${key}")
+                if (placeholders(value) != placeholders(translated[key]))
+                    throw new GradleException("Translation placeholder mismatch in ${languageFile.name}: ${key}")
+            }
+        }
+        logger.lifecycle("Validated ${english.size()} translation keys across ${languageFiles.files.size()} locales.")
+    }
+}
+
 tasks.named('check') {
     dependsOn tasks.named('validateTrades')
+    dependsOn tasks.named('validateTranslations')
 }
 
 // IDEA no longer automatically downloads sources/javadoc jars for dependencies, so we need to explicitly enable the behavior.

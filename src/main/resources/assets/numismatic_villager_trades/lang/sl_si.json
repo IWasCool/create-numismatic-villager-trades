@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numizmatične trgovine vaščanov",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatične trgovine vaščanov",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatične trgovine vaščanov",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Omogoči trgovine s kovanci",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zamenjaj vanilla trgovine",
-    "numismatic_villager_trades.configuration.maxUses":  "Največ uporab trgovine",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Trgovine vaščanov",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Rudar"
+    "numismatic_villager_trades.configuration.title": "Create: Numizmatične trgovine vaščanov",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numizmatične trgovine vaščanov",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numizmatične trgovine vaščanov",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Omogoči trgovine s kovanci",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Zamenjaj vanilla trgovine",
+    "numismatic_villager_trades.configuration.maxUses": "Največ uporab trgovine",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Trgovine vaščanov",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Rudar",
+    "gui.numismatic_villager_trades.trades.search": "Išči predmete, čarovnije ali poklice...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Vsi poklici",
+    "gui.numismatic_villager_trades.trades.empty": "Ni ustreznih trgovin",
+    "gui.numismatic_villager_trades.trades.job_site": "Delovno mesto vaščana (se ne porabi)",
+    "key.numismatic_villager_trades.browse_trades": "Prebrskaj trgovine vaščanov",
+    "key.categories.numismatic_villager_trades": "Create: Numizmatične trgovine vaščanov",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

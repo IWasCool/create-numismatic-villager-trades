@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatikaj vilaĝanaj komercoj",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatikaj vilaĝanaj komercoj",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatikaj vilaĝanaj komercoj",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ŝalti monerajn komercojn",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Anstataŭigi vanilajn komercojn",
-    "numismatic_villager_trades.configuration.maxUses":  "Maksimumaj uzoj de komerco",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Vilaĝanaj komercoj",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Ministo"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatikaj vilaĝanaj komercoj",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatikaj vilaĝanaj komercoj",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatikaj vilaĝanaj komercoj",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Ŝalti monerajn komercojn",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Anstataŭigi vanilajn komercojn",
+    "numismatic_villager_trades.configuration.maxUses": "Maksimumaj uzoj de komerco",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Vilaĝanaj komercoj",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Ministo",
+    "gui.numismatic_villager_trades.trades.search": "Serĉi erojn, sorĉojn aŭ profesiojn...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Ĉiuj profesioj",
+    "gui.numismatic_villager_trades.trades.empty": "Neniuj kongruaj komercoj",
+    "gui.numismatic_villager_trades.trades.job_site": "Laborejo de vilaĝano (ne konsumata)",
+    "key.numismatic_villager_trades.browse_trades": "Foliumi vilaĝanajn komercojn",
+    "key.categories.numismatic_villager_trades": "Create: Numismatikaj vilaĝanaj komercoj",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

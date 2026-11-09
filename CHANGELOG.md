@@ -4,6 +4,13 @@ All versions below are for Minecraft 1.21.1 / NeoForge.
 
 ## v1.0.0 | Full Release
 
+- Added Missing Trade Browser, Search, Job Site, And Keybind Translations
+- Completed All 16 UI Translation Keys Across 143 Locale Files And Added Build-Time Key And Placeholder Validation
+- Matched Villager And Built-In Browser Trade Ordering To JEI: Cheapest To Most Expensive By Total Coin Value, Preserving Equal-Price Item Order
+- Applied The Same Ordering When Existing Villagers Load Or Their Trading Screen Opens
+- Verified NeoForge 21.1.241 Compatibility So Both Tempo Test Packs Can Use The Same Build
+- Redesigned The Miner And Zombie Miner Outfits With Slate-Blue Work Shirts, Charcoal Overalls, Tan Suspenders, Utility Pockets, And Dark Boots On The Original 64x64 Pixel Grid
+- Kept The Gray Miner Hat And Lamp And Restored Visible Miner And Zombie Miner Eyes When Resource Packs Replace The Base Face Texture
 - Published The Public GitHub Source Repository Under The MIT License
 - Included The Mod And NeoForge Template License Notices In The JAR
 - Made Build Dependencies Download Automatically Without Local Modpack JARs
@@ -13,7 +20,6 @@ All versions below are for Minecraft 1.21.1 / NeoForge.
 - Priced Finished Armor And Tools Around Twice One Unit Of Their Material Instead Of Charging For Every Crafting Ingredient
 - Replaced Large Coin Stacks With Clean Price Tiers And The Largest Exact Coin Denomination
 - Ordered JEI Profession Trade Lists From Cheap To Expensive, Keeping The Existing Item Order Within Each Price Tier
-- Ordered Villager And Built-In Browser Trades From Expensive To Cheap
 - Grouped All JEI Trades Into One Page Per Villager Profession, With A Villager Preview And Job Site
 - Added Mouse Wheel Scrolling And A Draggable Scrollbar For Long Profession Trade Lists
 - Kept Every Trade Searchable In JEI And Automatically Scrolled To Matching Items

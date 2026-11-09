@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatiskir bygdarfólkahandlar",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiskir bygdarfólkahandlar",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiskir bygdarfólkahandlar",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Virka myntahandlar",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Skift vanilla-handlar út",
-    "numismatic_villager_trades.configuration.maxUses":  "Mest nýtslur av handli",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Bygdarfólkahandlar",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Námsarbeiðari"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatiskir bygdarfólkahandlar",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatiskir bygdarfólkahandlar",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatiskir bygdarfólkahandlar",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Virka myntahandlar",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Skift vanilla-handlar út",
+    "numismatic_villager_trades.configuration.maxUses": "Mest nýtslur av handli",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Bygdarfólkahandlar",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Námsarbeiðari",
+    "gui.numismatic_villager_trades.trades.search": "Leita eftir lutum, gandum ella yrkjum...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Øll yrki",
+    "gui.numismatic_villager_trades.trades.empty": "Eingir samsvarandi handlar",
+    "gui.numismatic_villager_trades.trades.job_site": "Arbeiðsstaður hjá bygdarfólki (verður ikki brúktur)",
+    "key.numismatic_villager_trades.browse_trades": "Skoða bygdarfólkahandlar",
+    "key.categories.numismatic_villager_trades": "Create: Numismatiskir bygdarfólkahandlar",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

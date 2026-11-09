@@ -9,7 +9,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:bevel",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -19,23 +19,23 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:turtle_scute"
+                "name": "minecraft:kelp"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:bevel",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 2
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:sea_pickle"
+                "name": "minecraft:seagrass"
               }
             },
             {
@@ -137,23 +137,23 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:bevel",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 1
+                    "count": 2
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:kelp"
+                "name": "minecraft:sea_pickle"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:bevel",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -163,7 +163,7 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:seagrass"
+                "name": "minecraft:turtle_scute"
               }
             }
           ]

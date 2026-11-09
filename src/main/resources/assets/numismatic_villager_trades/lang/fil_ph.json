@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatikong kalakalan ng taganayon",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatikong kalakalan ng taganayon",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatikong kalakalan ng taganayon",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Paganahin ang kalakalan gamit ang barya",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Palitan ang vanilla na kalakalan",
-    "numismatic_villager_trades.configuration.maxUses":  "Pinakamaraming gamit ng kalakalan",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Kalakalan ng taganayon",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Minero"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatikong kalakalan ng taganayon",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatikong kalakalan ng taganayon",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatikong kalakalan ng taganayon",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Paganahin ang kalakalan gamit ang barya",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Palitan ang vanilla na kalakalan",
+    "numismatic_villager_trades.configuration.maxUses": "Pinakamaraming gamit ng kalakalan",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Kalakalan ng taganayon",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Minero",
+    "gui.numismatic_villager_trades.trades.search": "Maghanap ng mga item, enchantment, o propesyon...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Lahat ng propesyon",
+    "gui.numismatic_villager_trades.trades.empty": "Walang tumutugmang kalakalan",
+    "gui.numismatic_villager_trades.trades.job_site": "Lugar ng trabaho ng taganayon (hindi nauubos)",
+    "key.numismatic_villager_trades.browse_trades": "Tingnan ang kalakalan ng mga taganayon",
+    "key.categories.numismatic_villager_trades": "Create: Numismatikong kalakalan ng taganayon",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

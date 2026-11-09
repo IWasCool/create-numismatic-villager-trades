@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Нумизматички трговии на селани",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматички трговии на селани",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматички трговии на селани",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Овозможи трговии со монети",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Замени vanilla трговии",
-    "numismatic_villager_trades.configuration.maxUses":  "Максимални користења на трговија",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Трговии на селани",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Рудар"
+    "numismatic_villager_trades.configuration.title": "Create: Нумизматички трговии на селани",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Нумизматички трговии на селани",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Нумизматички трговии на селани",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Овозможи трговии со монети",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Замени vanilla трговии",
+    "numismatic_villager_trades.configuration.maxUses": "Максимални користења на трговија",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Трговии на селани",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Рудар",
+    "gui.numismatic_villager_trades.trades.search": "Пребарај предмети, маѓепсувања или професии...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Сите професии",
+    "gui.numismatic_villager_trades.trades.empty": "Нема соодветни трговии",
+    "gui.numismatic_villager_trades.trades.job_site": "Работно место на селанец (не се троши)",
+    "key.numismatic_villager_trades.browse_trades": "Прегледај трговии на селани",
+    "key.categories.numismatic_villager_trades": "Create: Нумизматички трговии на селани",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -9,161 +9,33 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:spur",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 2
+                    "count": 4
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:ghast_tear"
+                "name": "minecraft:glass_bottle"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:spur",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 2
+                    "count": 4
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:turtle_helmet"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "create:blaze_burner"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:nether_wart"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:phantom_membrane"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:pufferfish"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:rabbit_foot"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:fermented_spider_eye"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:magma_cream"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:blaze_powder"
+                "name": "minecraft:sugar"
               }
             },
             {
@@ -173,13 +45,13 @@
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 3
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:spider_eye"
+                "name": "minecraft:glowstone_dust"
               }
             },
             {
@@ -253,45 +125,173 @@
                 "functions": [
                   {
                     "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:spider_eye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:fermented_spider_eye"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:magma_cream"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:blaze_powder"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
                     "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:glowstone_dust"
+                "name": "minecraft:nether_wart"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 4
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:glass_bottle"
+                "name": "minecraft:phantom_membrane"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 4
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:sugar"
+                "name": "minecraft:pufferfish"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:rabbit_foot"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:ghast_tear"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:turtle_helmet"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "create:blaze_burner"
               }
             }
           ]

@@ -1,6 +1,9 @@
 name: Build
 
-on: [push, pull_request]
+on:
+  push:
+    branches: ['**']
+  pull_request:
 
 permissions:
   contents: read
@@ -26,6 +29,9 @@ jobs:
 
       - name: Build with Gradle
         run: ./gradlew build --no-daemon
+
+      - name: Check existing villager ordering and previews
+        run: ./gradlew runGameTestServer -PtestVillagerPreviews=true --no-daemon
 
       - name: Upload mod JAR
         uses: actions/upload-artifact@v4

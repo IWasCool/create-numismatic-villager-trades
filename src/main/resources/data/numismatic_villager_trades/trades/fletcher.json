@@ -9,7 +9,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:spur",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -19,23 +19,23 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:crossbow"
+                "name": "minecraft:arrow"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:spur",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 1
+                    "count": 4
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:bow"
+                "name": "minecraft:spectral_arrow"
               }
             },
             {
@@ -73,23 +73,23 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 4
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:spectral_arrow"
+                "name": "minecraft:bow"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -99,7 +99,7 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:arrow"
+                "name": "minecraft:crossbow"
               }
             }
           ]

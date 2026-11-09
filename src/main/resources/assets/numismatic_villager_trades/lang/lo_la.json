@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "ເປີດໃຊ້ການຄ້າເຫຼຽນ",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "ແທນທີ່ການຄ້າ vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "ຈຳນວນໃຊ້ການຄ້າສູງສຸດ",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "ການຄ້າຂອງຊາວບ້ານ",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "ຄົນຂຸດແຮ່"
+    "numismatic_villager_trades.configuration.title": "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "ເປີດໃຊ້ການຄ້າເຫຼຽນ",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "ແທນທີ່ການຄ້າ vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "ຈຳນວນໃຊ້ການຄ້າສູງສຸດ",
+    "gui.numismatic_villager_trades.jei.villager_trades": "ການຄ້າຂອງຊາວບ້ານ",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "ຄົນຂຸດແຮ່",
+    "gui.numismatic_villager_trades.trades.search": "ຄົ້ນຫາສິ່ງຂອງ, ມົນວິເສດ ຫຼື ອາຊີບ...",
+    "gui.numismatic_villager_trades.trades.all_professions": "ທຸກອາຊີບ",
+    "gui.numismatic_villager_trades.trades.empty": "ບໍ່ມີການຄ້າທີ່ກົງກັນ",
+    "gui.numismatic_villager_trades.trades.job_site": "ບ່ອນເຮັດວຽກຂອງຊາວບ້ານ (ບໍ່ຖືກໃຊ້ໝົດ)",
+    "key.numismatic_villager_trades.browse_trades": "ເບິ່ງການຄ້າຂອງຊາວບ້ານ",
+    "key.categories.numismatic_villager_trades": "Create: ການຄ້ານິມິດເງິນຂອງຊາວບ້ານ",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

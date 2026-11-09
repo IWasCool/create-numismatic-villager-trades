@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: تجارة القرويين بالنقود",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: تجارة القرويين بالنقود",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: تجارة القرويين بالنقود",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "تفعيل تجارة العملات",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "استبدال تجارة فانيلا",
-    "numismatic_villager_trades.configuration.maxUses":  "الحد الأقصى لاستخدامات التجارة",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "تجارة القرويين",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "عامل منجم"
+    "numismatic_villager_trades.configuration.title": "Create: تجارة القرويين بالنقود",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: تجارة القرويين بالنقود",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: تجارة القرويين بالنقود",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "تفعيل تجارة العملات",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "استبدال تجارة فانيلا",
+    "numismatic_villager_trades.configuration.maxUses": "الحد الأقصى لاستخدامات التجارة",
+    "gui.numismatic_villager_trades.jei.villager_trades": "تجارة القرويين",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "عامل منجم",
+    "gui.numismatic_villager_trades.trades.search": "ابحث عن العناصر أو التعويذات أو المهن...",
+    "gui.numismatic_villager_trades.trades.all_professions": "جميع المهن",
+    "gui.numismatic_villager_trades.trades.empty": "لا توجد صفقات مطابقة",
+    "gui.numismatic_villager_trades.trades.job_site": "موقع عمل القروي (لا يُستهلك)",
+    "key.numismatic_villager_trades.browse_trades": "تصفح صفقات القرويين",
+    "key.categories.numismatic_villager_trades": "Create: تجارة القرويين بالنقود",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

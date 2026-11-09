@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numizmatičke trgovine seljana",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatičke trgovine seljana",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatičke trgovine seljana",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Omogući trgovine novčićima",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Zamijeni vanilla trgovine",
-    "numismatic_villager_trades.configuration.maxUses":  "Maksimalan broj korištenja trgovine",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Trgovine seljana",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Rudar"
+    "numismatic_villager_trades.configuration.title": "Create: Numizmatičke trgovine seljana",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numizmatičke trgovine seljana",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numizmatičke trgovine seljana",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Omogući trgovine novčićima",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Zamijeni vanilla trgovine",
+    "numismatic_villager_trades.configuration.maxUses": "Maksimalan broj korištenja trgovine",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Trgovine seljana",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Rudar",
+    "gui.numismatic_villager_trades.trades.search": "Pretraži predmete, čarolije ili zanimanja...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Sva zanimanja",
+    "gui.numismatic_villager_trades.trades.empty": "Nema odgovarajućih trgovina",
+    "gui.numismatic_villager_trades.trades.job_site": "Radno mjesto seljana (ne troši se)",
+    "key.numismatic_villager_trades.browse_trades": "Pregledaj trgovine seljana",
+    "key.categories.numismatic_villager_trades": "Create: Numizmatičke trgovine seljana",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

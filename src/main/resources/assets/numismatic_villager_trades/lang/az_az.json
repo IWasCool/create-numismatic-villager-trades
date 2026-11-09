@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numizmatik kəndli ticarətləri",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numizmatik kəndli ticarətləri",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numizmatik kəndli ticarətləri",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Sikkə ticarətlərini aktiv et",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanil ticarətlərini əvəz et",
-    "numismatic_villager_trades.configuration.maxUses":  "Ticarətin maksimum istifadəsi",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Kəndli ticarətləri",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mədənçi"
+    "numismatic_villager_trades.configuration.title": "Create: Numizmatik kəndli ticarətləri",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numizmatik kəndli ticarətləri",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numizmatik kəndli ticarətləri",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Sikkə ticarətlərini aktiv et",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanil ticarətlərini əvəz et",
+    "numismatic_villager_trades.configuration.maxUses": "Ticarətin maksimum istifadəsi",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Kəndli ticarətləri",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Mədənçi",
+    "gui.numismatic_villager_trades.trades.search": "Əşyalar, sehrlər və ya peşələr axtarın...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Bütün peşələr",
+    "gui.numismatic_villager_trades.trades.empty": "Uyğun ticarət yoxdur",
+    "gui.numismatic_villager_trades.trades.job_site": "Kəndlinin iş yeri (sərf olunmur)",
+    "key.numismatic_villager_trades.browse_trades": "Kəndli ticarətlərinə baxın",
+    "key.categories.numismatic_villager_trades": "Create: Numizmatik kəndli ticarətləri",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

@@ -9,7 +9,7 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:cog",
+                "name": "numismatics:spur",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -19,87 +19,7 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "farmersdelight:netherite_knife"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "farmersdelight:diamond_knife"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:cog",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "farmersdelight:golden_knife"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 2
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "farmersdelight:iron_knife"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 3
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:rabbit"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:sprocket",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:mutton"
+                "name": "farmersdelight:flint_knife"
               }
             },
             {
@@ -153,7 +73,87 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:spur",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:mutton"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 3
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:rabbit"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:iron_knife"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:golden_knife"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 2
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "farmersdelight:diamond_knife"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:cog",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -163,7 +163,7 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "farmersdelight:flint_knife"
+                "name": "farmersdelight:netherite_knife"
               }
             }
           ]

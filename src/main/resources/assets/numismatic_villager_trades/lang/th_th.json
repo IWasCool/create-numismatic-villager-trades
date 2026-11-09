@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "เปิดใช้การค้าเหรียญ",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "แทนที่การค้า vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "จำนวนใช้งานการค้าสูงสุด",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "การค้าชาวบ้าน",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "คนขุดแร่"
+    "numismatic_villager_trades.configuration.title": "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "เปิดใช้การค้าเหรียญ",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "แทนที่การค้า vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "จำนวนใช้งานการค้าสูงสุด",
+    "gui.numismatic_villager_trades.jei.villager_trades": "การค้าชาวบ้าน",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "คนขุดแร่",
+    "gui.numismatic_villager_trades.trades.search": "ค้นหาไอเทม มนตร์เสน่ห์ หรืออาชีพ...",
+    "gui.numismatic_villager_trades.trades.all_professions": "ทุกอาชีพ",
+    "gui.numismatic_villager_trades.trades.empty": "ไม่พบรายการค้าที่ตรงกัน",
+    "gui.numismatic_villager_trades.trades.job_site": "บล็อกอาชีพของชาวบ้าน (ไม่ถูกใช้หมด)",
+    "key.numismatic_villager_trades.browse_trades": "ดูรายการค้าของชาวบ้าน",
+    "key.categories.numismatic_villager_trades": "Create: การค้าชาวบ้านเชิงเหรียญศาสตร์",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

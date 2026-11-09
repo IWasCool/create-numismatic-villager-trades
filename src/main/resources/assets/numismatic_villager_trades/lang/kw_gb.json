@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Kenwerthow numismatek an drevysi",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Kenwerthow numismatek an drevysi",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Kenwerthow numismatek an drevysi",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Galosegi kenwerthow mona",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Displegya kenwerthow vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Usyow brasa an kenwerth",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Kenwerthow trevysi",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Mengleudhyer"
+    "numismatic_villager_trades.configuration.title": "Create: Kenwerthow numismatek an drevysi",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Kenwerthow numismatek an drevysi",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Kenwerthow numismatek an drevysi",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Galosegi kenwerthow mona",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Displegya kenwerthow vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Usyow brasa an kenwerth",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Kenwerthow trevysi",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Mengleudhyer",
+    "gui.numismatic_villager_trades.trades.search": "Search items, enchantments, or professions...",
+    "gui.numismatic_villager_trades.trades.all_professions": "All Professions",
+    "gui.numismatic_villager_trades.trades.empty": "No matching trades",
+    "gui.numismatic_villager_trades.trades.job_site": "Villager job site (not consumed)",
+    "key.numismatic_villager_trades.browse_trades": "Browse Villager Trades",
+    "key.categories.numismatic_villager_trades": "Create: Kenwerthow numismatek an drevysi",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

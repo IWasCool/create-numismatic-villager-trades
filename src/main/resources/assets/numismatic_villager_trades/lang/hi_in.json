@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "सिक्का व्यापार सक्षम करें",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "वैनिला व्यापार बदलें",
-    "numismatic_villager_trades.configuration.maxUses":  "व्यापार के अधिकतम उपयोग",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "ग्रामीण व्यापार",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "खनिक"
+    "numismatic_villager_trades.configuration.title": "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "सिक्का व्यापार सक्षम करें",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "वैनिला व्यापार बदलें",
+    "numismatic_villager_trades.configuration.maxUses": "व्यापार के अधिकतम उपयोग",
+    "gui.numismatic_villager_trades.jei.villager_trades": "ग्रामीण व्यापार",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "खनिक",
+    "gui.numismatic_villager_trades.trades.search": "वस्तुएँ, जादू या पेशे खोजें...",
+    "gui.numismatic_villager_trades.trades.all_professions": "सभी पेशे",
+    "gui.numismatic_villager_trades.trades.empty": "कोई मेल खाता व्यापार नहीं",
+    "gui.numismatic_villager_trades.trades.job_site": "ग्रामीण का कार्यस्थल (खर्च नहीं होता)",
+    "key.numismatic_villager_trades.browse_trades": "ग्रामीण व्यापार देखें",
+    "key.categories.numismatic_villager_trades": "Create: सिक्काशास्त्रीय ग्रामीण व्यापार",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

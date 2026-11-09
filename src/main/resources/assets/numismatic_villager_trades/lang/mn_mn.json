@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Нумизматик тосгоны хүний арилжаа",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматик тосгоны хүний арилжаа",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматик тосгоны хүний арилжаа",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Зоосны арилжааг идэвхжүүлэх",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla арилжааг солих",
-    "numismatic_villager_trades.configuration.maxUses":  "Арилжааны хамгийн их хэрэглээ",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Тосгоны хүний арилжаа",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Уурхайчин"
+    "numismatic_villager_trades.configuration.title": "Create: Нумизматик тосгоны хүний арилжаа",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Нумизматик тосгоны хүний арилжаа",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Нумизматик тосгоны хүний арилжаа",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Зоосны арилжааг идэвхжүүлэх",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla арилжааг солих",
+    "numismatic_villager_trades.configuration.maxUses": "Арилжааны хамгийн их хэрэглээ",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Тосгоны хүний арилжаа",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Уурхайчин",
+    "gui.numismatic_villager_trades.trades.search": "Эд зүйл, ид шид эсвэл мэргэжил хайх...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Бүх мэргэжил",
+    "gui.numismatic_villager_trades.trades.empty": "Тохирох арилжаа алга",
+    "gui.numismatic_villager_trades.trades.job_site": "Тосгоны хүний ажлын байр (зарцуулагдахгүй)",
+    "key.numismatic_villager_trades.browse_trades": "Тосгоны хүний арилжааг үзэх",
+    "key.categories.numismatic_villager_trades": "Create: Нумизматик тосгоны хүний арилжаа",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

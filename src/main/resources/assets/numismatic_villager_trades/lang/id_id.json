@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Perdagangan numismatik penduduk desa",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Perdagangan numismatik penduduk desa",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Perdagangan numismatik penduduk desa",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktifkan perdagangan koin",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ganti perdagangan vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Penggunaan maksimum perdagangan",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Perdagangan penduduk desa",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Penambang"
+    "numismatic_villager_trades.configuration.title": "Create: Perdagangan numismatik penduduk desa",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Perdagangan numismatik penduduk desa",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Perdagangan numismatik penduduk desa",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Aktifkan perdagangan koin",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Ganti perdagangan vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Penggunaan maksimum perdagangan",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Perdagangan penduduk desa",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Penambang",
+    "gui.numismatic_villager_trades.trades.search": "Cari barang, pesona, atau profesi...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Semua profesi",
+    "gui.numismatic_villager_trades.trades.empty": "Tidak ada perdagangan yang cocok",
+    "gui.numismatic_villager_trades.trades.job_site": "Tempat kerja penduduk desa (tidak dikonsumsi)",
+    "key.numismatic_villager_trades.browse_trades": "Jelajahi perdagangan penduduk desa",
+    "key.categories.numismatic_villager_trades": "Create: Perdagangan numismatik penduduk desa",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

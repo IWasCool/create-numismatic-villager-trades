@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Нумизматик ауыл кешеһе сауҙалары",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматик ауыл кешеһе сауҙалары",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматик ауыл кешеһе сауҙалары",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Тәңкә сауҙаларын ҡабыҙырға",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ғәҙәти сауҙаларҙы алмаштырырға",
-    "numismatic_villager_trades.configuration.maxUses":  "Сауҙаның иң күп ҡулланыуы",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Ауыл кешеһе сауҙалары",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Шахтер"
+    "numismatic_villager_trades.configuration.title": "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Тәңкә сауҙаларын ҡабыҙырға",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Ғәҙәти сауҙаларҙы алмаштырырға",
+    "numismatic_villager_trades.configuration.maxUses": "Сауҙаның иң күп ҡулланыуы",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Ауыл кешеһе сауҙалары",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Шахтер",
+    "gui.numismatic_villager_trades.trades.search": "Әйберҙәр, сихырҙар йәки һөнәрҙәр эҙләү...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Бөтә һөнәрҙәр",
+    "gui.numismatic_villager_trades.trades.empty": "Тап килгән сауҙалар юҡ",
+    "gui.numismatic_villager_trades.trades.job_site": "Ауыл кешеһенең эш урыны (тотонолмай)",
+    "key.numismatic_villager_trades.browse_trades": "Ауыл кешеһе сауҙаларын ҡарау",
+    "key.categories.numismatic_villager_trades": "Create: Нумизматик ауыл кешеһе сауҙалары",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

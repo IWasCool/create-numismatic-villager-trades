@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "אַקטיווירן מטבע־האַנדלען",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "פֿאַרבײַטן vanilla האַנדלען",
-    "numismatic_villager_trades.configuration.maxUses":  "מאַקסימום באַניצן פֿון האַנדל",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "האַנדלען פֿון דערפֿלער",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "מינער"
+    "numismatic_villager_trades.configuration.title": "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "אַקטיווירן מטבע־האַנדלען",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "פֿאַרבײַטן vanilla האַנדלען",
+    "numismatic_villager_trades.configuration.maxUses": "מאַקסימום באַניצן פֿון האַנדל",
+    "gui.numismatic_villager_trades.jei.villager_trades": "האַנדלען פֿון דערפֿלער",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "מינער",
+    "gui.numismatic_villager_trades.trades.search": "זוכן חפצים, כּישופים אָדער פּראָפֿעסיעס...",
+    "gui.numismatic_villager_trades.trades.all_professions": "אַלע פּראָפֿעסיעס",
+    "gui.numismatic_villager_trades.trades.empty": "קיין פּאַסיקע האַנדלען נישט",
+    "gui.numismatic_villager_trades.trades.job_site": "אַרבעטסאָרט פֿונעם דערפֿלער (ווערט נישט פֿאַרברויכט)",
+    "key.numismatic_villager_trades.browse_trades": "בלעטערן האַנדלען פֿון דערפֿלער",
+    "key.categories.numismatic_villager_trades": "Create: נומיסמאַטישע האַנדלען פֿון דערפֿלער",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

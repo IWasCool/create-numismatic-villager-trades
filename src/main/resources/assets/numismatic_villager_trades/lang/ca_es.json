@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Comerços numismàtics dels vilatans",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Comerços numismàtics dels vilatans",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Comerços numismàtics dels vilatans",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Activa els comerços amb monedes",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Substitueix els comerços vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Usos màxims del comerç",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Comerços de vilatans",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Miner"
+    "numismatic_villager_trades.configuration.title": "Create: Comerços numismàtics dels vilatans",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Comerços numismàtics dels vilatans",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Comerços numismàtics dels vilatans",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Activa els comerços amb monedes",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Substitueix els comerços vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Usos màxims del comerç",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Comerços de vilatans",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Miner",
+    "gui.numismatic_villager_trades.trades.search": "Cerca objectes, encantaments o professions...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Totes les professions",
+    "gui.numismatic_villager_trades.trades.empty": "No hi ha intercanvis coincidents",
+    "gui.numismatic_villager_trades.trades.job_site": "Lloc de treball del vilatà (no es consumeix)",
+    "key.numismatic_villager_trades.browse_trades": "Explora els intercanvis dels vilatans",
+    "key.categories.numismatic_villager_trades": "Create: Comerços numismàtics dels vilatans",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

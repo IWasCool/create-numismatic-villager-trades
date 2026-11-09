@@ -9,7 +9,23 @@
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:crown",
+                "name": "numismatics:bevel",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": 1
+                  }
+                ]
+              },
+              "result": {
+                "type": "minecraft:item",
+                "name": "minecraft:stone_sword"
+              }
+            },
+            {
+              "cost_a": {
+                "type": "minecraft:item",
+                "name": "numismatics:sprocket",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -19,7 +35,7 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:heavy_core"
+                "name": "minecraft:iron_sword"
               }
             },
             {
@@ -29,13 +45,13 @@
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 4
+                    "count": 1
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:netherite_sword"
+                "name": "minecraft:golden_sword"
               }
             },
             {
@@ -61,19 +77,19 @@
                 "functions": [
                   {
                     "function": "minecraft:set_count",
-                    "count": 1
+                    "count": 4
                   }
                 ]
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:golden_sword"
+                "name": "minecraft:netherite_sword"
               }
             },
             {
               "cost_a": {
                 "type": "minecraft:item",
-                "name": "numismatics:sprocket",
+                "name": "numismatics:crown",
                 "functions": [
                   {
                     "function": "minecraft:set_count",
@@ -83,23 +99,7 @@
               },
               "result": {
                 "type": "minecraft:item",
-                "name": "minecraft:iron_sword"
-              }
-            },
-            {
-              "cost_a": {
-                "type": "minecraft:item",
-                "name": "numismatics:bevel",
-                "functions": [
-                  {
-                    "function": "minecraft:set_count",
-                    "count": 1
-                  }
-                ]
-              },
-              "result": {
-                "type": "minecraft:item",
-                "name": "minecraft:stone_sword"
+                "name": "minecraft:heavy_core"
               }
             }
           ]

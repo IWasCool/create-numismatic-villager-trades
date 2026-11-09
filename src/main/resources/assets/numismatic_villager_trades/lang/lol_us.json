@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Shiniez Villager Tradez",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Shiniez Villager Tradez",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Shiniez Villager Tradez",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Turn on Shiniez Tradez",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Replace Vanilla Tradez",
-    "numismatic_villager_trades.configuration.maxUses":  "Max Trade Usez",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Villager Tradez",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Miner"
+    "numismatic_villager_trades.configuration.title": "Create: Shiniez Villager Tradez",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Shiniez Villager Tradez",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Shiniez Villager Tradez",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Turn on Shiniez Tradez",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Replace Vanilla Tradez",
+    "numismatic_villager_trades.configuration.maxUses": "Max Trade Usez",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Villager Tradez",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Miner",
+    "gui.numismatic_villager_trades.trades.search": "Search items, enchantments, or professions...",
+    "gui.numismatic_villager_trades.trades.all_professions": "All Professions",
+    "gui.numismatic_villager_trades.trades.empty": "No matching trades",
+    "gui.numismatic_villager_trades.trades.job_site": "Villager job site (not consumed)",
+    "key.numismatic_villager_trades.browse_trades": "Browse Villager Trades",
+    "key.categories.numismatic_villager_trades": "Create: Shiniez Villager Tradez",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

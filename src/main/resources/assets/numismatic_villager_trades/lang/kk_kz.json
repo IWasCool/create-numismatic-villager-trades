@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Нумизматикалық ауыл тұрғыны саудалары",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Нумизматикалық ауыл тұрғыны саудалары",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Нумизматикалық ауыл тұрғыны саудалары",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Тиын саудаларын қосу",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Vanilla саудаларын ауыстыру",
-    "numismatic_villager_trades.configuration.maxUses":  "Сауданың ең көп қолданылуы",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Ауыл тұрғыны саудалары",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Кенші"
+    "numismatic_villager_trades.configuration.title": "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Тиын саудаларын қосу",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Vanilla саудаларын ауыстыру",
+    "numismatic_villager_trades.configuration.maxUses": "Сауданың ең көп қолданылуы",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Ауыл тұрғыны саудалары",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Кенші",
+    "gui.numismatic_villager_trades.trades.search": "Заттарды, сиқырларды немесе кәсіптерді іздеу...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Барлық кәсіптер",
+    "gui.numismatic_villager_trades.trades.empty": "Сәйкес сауда жоқ",
+    "gui.numismatic_villager_trades.trades.job_site": "Ауыл тұрғынының жұмыс орны (жұмсалмайды)",
+    "key.numismatic_villager_trades.browse_trades": "Ауыл тұрғындарының саудасын шолу",
+    "key.categories.numismatic_villager_trades": "Create: Нумизматикалық ауыл тұрғыны саудалары",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

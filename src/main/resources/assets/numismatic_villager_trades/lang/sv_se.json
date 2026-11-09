@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatiska byboaffärer",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiska byboaffärer",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiska byboaffärer",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktivera mynthandel",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Ersätt vanilla-handel",
-    "numismatic_villager_trades.configuration.maxUses":  "Maximala handelsanvändningar",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Byboaffärer",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gruvarbetare"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatiska byboaffärer",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatiska byboaffärer",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatiska byboaffärer",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Aktivera mynthandel",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Ersätt vanilla-handel",
+    "numismatic_villager_trades.configuration.maxUses": "Maximala handelsanvändningar",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Byboaffärer",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Gruvarbetare",
+    "gui.numismatic_villager_trades.trades.search": "Sök efter föremål, förtrollningar eller yrken...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Alla yrken",
+    "gui.numismatic_villager_trades.trades.empty": "Inga matchande affärer",
+    "gui.numismatic_villager_trades.trades.job_site": "Bybons arbetsplats (förbrukas inte)",
+    "key.numismatic_villager_trades.browse_trades": "Bläddra bland byboaffärer",
+    "key.categories.numismatic_villager_trades": "Create: Numismatiska byboaffärer",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

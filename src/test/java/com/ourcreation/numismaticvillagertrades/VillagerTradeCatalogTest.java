@@ -35,14 +35,14 @@ class VillagerTradeCatalogTest {
             "spur", 1, "bevel", 8, "sprocket", 16, "cog", 64, "crown", 512, "sun", 4096);
 
     @Test
-    void villagerPricesDescendWithSmallStacksAndExactDenominations(MinecraftServer server) {
+    void villagerPricesAscendWithSmallStacksAndExactDenominations(MinecraftServer server) {
         var professions = NumismaticVillagerTrades.buildTradeDisplays(server.registryAccess()).stream()
                 .collect(Collectors.groupingBy(TradeDisplay::professionId));
         for (var profession : professions.entrySet()) {
-            int previous = Integer.MAX_VALUE;
+            int previous = 0;
             for (var trade : profession.getValue()) {
                 int price = price(trade);
-                assertTrue(price <= previous, "Cheapest villager offers must be at the bottom: " + profession.getKey());
+                assertTrue(price >= previous, "Cheapest villager offers must be at the top: " + profession.getKey());
                 assertTrue(trade.costA().getCount() <= 7, "Avoid crowded coin stacks: " + trade.result());
                 int largest = COIN_VALUES.values().stream().filter(value -> price % value == 0)
                         .mapToInt(Integer::intValue).max().orElseThrow();

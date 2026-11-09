@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Slo\u0027il tak\u0027in ta jteklumetik",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Slo\u0027il tak\u0027in ta jteklumetik",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Slo\u0027il tak\u0027in ta jteklumetik",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Ak\u0027o ta spasel slo\u0027il tak\u0027in",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "K\u0027exo slo\u0027il vanilla",
-    "numismatic_villager_trades.configuration.maxUses":  "Jayibuk xu\u0027 ta tunesel slo\u0027il",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Slo\u0027il jteklumetik",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Jk\u0027opoj ch\u0027en"
+    "numismatic_villager_trades.configuration.title": "Create: Slo'il tak'in ta jteklumetik",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Slo'il tak'in ta jteklumetik",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Slo'il tak'in ta jteklumetik",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Ak'o ta spasel slo'il tak'in",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "K'exo slo'il vanilla",
+    "numismatic_villager_trades.configuration.maxUses": "Jayibuk xu' ta tunesel slo'il",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Slo'il jteklumetik",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Jk'opoj ch'en",
+    "gui.numismatic_villager_trades.trades.search": "Search items, enchantments, or professions...",
+    "gui.numismatic_villager_trades.trades.all_professions": "All Professions",
+    "gui.numismatic_villager_trades.trades.empty": "No matching trades",
+    "gui.numismatic_villager_trades.trades.job_site": "Villager job site (not consumed)",
+    "key.numismatic_villager_trades.browse_trades": "Browse Villager Trades",
+    "key.categories.numismatic_villager_trades": "Create: Slo'il tak'in ta jteklumetik",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }

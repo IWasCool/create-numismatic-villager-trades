@@ -1,10 +1,18 @@
 {
-    "numismatic_villager_trades.configuration.title":  "Create: Numismatiske landsbyboerhandler",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml":  "Create: Numismatiske landsbyboerhandler",
-    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title":  "Create: Numismatiske landsbyboerhandler",
-    "numismatic_villager_trades.configuration.enableCoinTrades":  "Aktiver mynthandler",
-    "numismatic_villager_trades.configuration.replaceVanillaTrades":  "Erstatt vanilla-handler",
-    "numismatic_villager_trades.configuration.maxUses":  "Maksimale handelsbruk",
-    "gui.numismatic_villager_trades.jei.villager_trades":  "Landsbyboerhandler",
-    "entity.minecraft.villager.numismatic_villager_trades.miner":  "Gruvearbeider"
+    "numismatic_villager_trades.configuration.title": "Create: Numismatiske landsbyboerhandler",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml": "Create: Numismatiske landsbyboerhandler",
+    "numismatic_villager_trades.configuration.section.numismatic_villager_trades.common.toml.title": "Create: Numismatiske landsbyboerhandler",
+    "numismatic_villager_trades.configuration.enableCoinTrades": "Aktiver mynthandler",
+    "numismatic_villager_trades.configuration.replaceVanillaTrades": "Erstatt vanilla-handler",
+    "numismatic_villager_trades.configuration.maxUses": "Maksimale handelsbruk",
+    "gui.numismatic_villager_trades.jei.villager_trades": "Landsbyboerhandler",
+    "entity.minecraft.villager.numismatic_villager_trades.miner": "Gruvearbeider",
+    "gui.numismatic_villager_trades.trades.search": "Søk etter gjenstander, fortryllelser eller yrker...",
+    "gui.numismatic_villager_trades.trades.all_professions": "Alle yrker",
+    "gui.numismatic_villager_trades.trades.empty": "Ingen samsvarende handler",
+    "gui.numismatic_villager_trades.trades.job_site": "Landsbyboerens arbeidssted (brukes ikke opp)",
+    "key.numismatic_villager_trades.browse_trades": "Bla gjennom landsbyboerhandler",
+    "key.categories.numismatic_villager_trades": "Create: Numismatiske landsbyboerhandler",
+    "gui.numismatic_villager_trades.trades.page": "%s / %s",
+    "gui.numismatic_villager_trades.trades.range": "%s-%s / %s"
 }
