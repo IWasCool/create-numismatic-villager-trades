@@ -42,7 +42,7 @@ The common config is `config/numismatic_villager_trades-common.toml`:
 
 Bundled profession trade definitions are in `src/main/resources/data/numismatic_villager_trades/trades/`.
 
-See the [changelog](CHANGELOG.md) for release details. Report problems through [GitHub Issues](https://github.com/IWasCool/create-numismatic-villager-trades/issues).
+Report problems through [GitHub Issues](https://github.com/IWasCool/create-numismatic-villager-trades/issues).
 
 ## Build from source
 
@@ -58,16 +58,10 @@ On Linux and macOS:
 ./gradlew build
 ```
 
-Dependencies download automatically; local modpack JARs are not needed. The build runs the existing tests, trade-data validation, and translation key/placeholder validation, and produces `build/libs/numismatic_villager_trades-1.0.0.jar`.
+Dependencies download automatically; local modpack JARs are not needed. The build produces `build/libs/numismatic_villager_trades-1.0.0.jar`.
 
 ## Translations
 
 All 143 locale files include the complete set of 10 viewer/configuration keys. Job-site tooltips are localized in 111 non-English locale files; 20 rarer locales use English fallbacks for that tooltip. Regional variants share their base language's labels where appropriate. Removed browser/keybind strings are no longer bundled. Translation corrections are welcome.
-
-## Integration checks
-
-`./gradlew build` validates trades, translations, and the shared viewer catalog without recipe viewers installed on the test server. Run `./gradlew runGameTestServer -PtestVillagerPreviews=true` to check existing-villager ordering and previews in an isolated world.
-
-For an isolated client integration test, first run the GameTest server command above, then run `./gradlew runViewerTestClient -PviewerSmokeTest=true -PrecipeViewer=emi`. Substitute `jei`, `rei`, `none`, or `jei-emi` to test another profile. These runs use temporary worlds under `build/`, verify native viewer registration and item indexing, open a real recipe page, save a screenshot, and close the test client. Test code is excluded from the published JAR.
 
 Source: [IWasCool/create-numismatic-villager-trades](https://github.com/IWasCool/create-numismatic-villager-trades). Available under the [MIT license](LICENSE). The NeoForge template's original notice is retained in [TEMPLATE_LICENSE.txt](TEMPLATE_LICENSE.txt); both notices are included in the mod JAR.
